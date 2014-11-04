@@ -22,4 +22,5 @@ Tech startup accelerators
 - Portland TenX (http://tenx.org/)
 - TiE Pearl (http://tiepearl.com/)
 - TiE Westside Incubator (https://oregon.tie.org/initiative/40/tie-westside-incubator-sponsored-melvin-mark)
+- TranscendIT Health (http://transcendithealth.com/)
 - Upstart Labs (defunct)
