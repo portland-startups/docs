@@ -6,7 +6,7 @@ Portland does an incredibly good job of describing what's happening in the start
 Tech community
 ----------
 - Aggregated event calendar (http://calagator.org/)
-- `Startup events`_.
+- :ref:`startup_events`
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
 - News (http://siliconflorist.com/)
 
@@ -25,3 +25,5 @@ Tech startup accelerators
 - TiE Westside Incubator (https://oregon.tie.org/initiative/40/tie-westside-incubator-sponsored-melvin-mark)
 - TranscendIT Health (http://transcendithealth.com/)
 - Upstart Labs (defunct)
+
+..  _home:
