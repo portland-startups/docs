@@ -3,6 +3,10 @@ Portland, Oregon, startup scene
 
 Portland does an incredibly good job of describing what's happening in the startup scene anecdotally, but an incredibly poor job of quantifying what is actually happening. This will be an effort to better quantify and capture what's happening in the Portland startup scene.
 
+Quick start guide
+----------
+If you're interested in a quick tutorial on Portland startup scene resources, visit "How to Portland Startup Scene" (http://sflo.me/HowToPDX)
+
 Tech community
 ----------
 - Aggregated event calendar (http://calagator.org/)
