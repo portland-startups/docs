@@ -6,7 +6,6 @@ Portland does an incredibly good job of describing what's happening in the start
 Tech community
 ----------
 - Aggregated event calendar (http://calagator.org/)
-- :ref:`startup_events`
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
 - Community chat (https://pdx-startups-slack.herokuapp.com/)
 - News (http://siliconflorist.com/)
