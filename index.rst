@@ -14,6 +14,19 @@ Tech community
 - Community chat (https://pdx-startups-slack.herokuapp.com/)
 - News (http://siliconflorist.com/)
 
+Coworking spaces
+----------
+- CENTRL Office (http://centrloffice.com/)
+- Collective Agency (https://collectiveagency.co/)
+- DeskHub Portland (http://www.deskhub.com/portland)
+- Factory @ The Ford (http://www.fordbuildingpdx.com/)
+- Forge (http://www.forgeportland.org/)
+- NedSpace (http://nedspace.com/)
+- NXT Industries (http://nxt.industries/)
+- Venture Business Centers (https://www.venturebusinesscenters.com/)
+- WeWork Custom House (https://www.wework.com/locations/portland/custom-house)
+- Workfrom Portland (https://workfrom.co/portland)
+
 Tech startup accelerators
 ----------
 - Amplify (Defunct)
