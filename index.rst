@@ -20,6 +20,7 @@ Coworking spaces
 - Collective Agency (https://collectiveagency.co/)
 - DeskHub Portland (http://www.deskhub.com/portland)
 - Factory @ The Ford (http://www.fordbuildingpdx.com/)
+- Grand Basement (http://www.pdxcoworking.space/)
 - Forge (http://www.forgeportland.org/)
 - NedSpace (http://nedspace.com/)
 - NXT Industries (http://nxt.industries/)
