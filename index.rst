@@ -51,358 +51,363 @@ Portland startups
 ----------
 This is an admittedly imperfect list of Portland startups. But it's a start. Please make suggestions, edits, and refinements so that this can be a more comprehensive list. 
 
-38 Zeros
-4-tell.com
-AboutUs
-Accumulus
-Adherial
-Agilyx
-Alum.ni
-Amused Now
-Antenna
-AppFog
-AppThwack
-Athletemob
-Athletepath  
-AudioName
-Automagically
-Bac'n
-Bass Masta
-beeminder
-Betabook
-BetaTrek
-Bigdaa
-Bilingualhire
-bitharvest
-BlitzMetrics
-Blueshift
-Book Supply Co
-Boots n All  
-Brandlive
-Brickstr
-Bright.md
-Brightwork
-Cake Systems
-Cascadia Games
-CASH Music
-CashStar
-Cedexis
-Celly 
-CerCis Consulting
-Chinook Book
-chirpify
-Chroma 
-Circle Media
-CiteAds
-Civil
-Clibe
-Clicky
-Cloudability
-cloudydays
-Clutch Play Games
-CoachBase
-cocollage.com
-Code Scouts
-Cointhink
-COLOURlovers
-comic-rocket.com
-Concrete5
-Conscious Box
-Conversa Health
-Copatient
-Cozy
-CPUsage
-Creative Market
-Creativity Gamelab
-Crowd Supply
-CrowdStreet
-Cuddle Mattress
-Customer.io
-DADO Labs
-DailyPath 
-Dart
-Deconstructed
-Digital Trends
-Divine Universal Studies
-DongleKong
-dot dot dash (Stublisher)
-Dovie
-Dwellingo
-Earth Techling
-Ecozoom
-Elemental
-Elevation Lab
-Eleven
-Elli
-Embodee
-Emoomee
-Energy Storage Systems
-entp
-EnviJet
-Epipheo
-Factor.io
-Favery
-Find Wellness
-FishingGear.com
-FitCause 
-FitDeck
-Fleet
-Fling
-FOMO Sonar
-Forkfly
-Foxing
-FUNDA
-FunnelBox
-FXserve
-GadgetTrak
-Generous
-GEO'Supp
-Geoloqi
-GeoPalz
-Giftango
-gigapan
-Glider
-gliph  
-globesherpa.com
-Go 2 Network
-Golf Clubs
-GoRecess
-Gradetree
-Graph Alchemist
-Grublits
-Gruntworks
-Gymbo
-Hallspot
-HealthSaaS
-Here File, File
-HighFive
-Hintme
-HiringThing
-House Happy
-Hubbub Health
-Hyperlayer
-iFlipd
-Imagars
-Imaginot
-IncitED
-Incredible
-Indie Vinos
-Infinity Softworks
-ingridsolutions.com
-Insidr
-Instrument
-IOTAS
-Iovation
-Iterasi
-Jama
-Janrain
-Jive
-JourneyGym
-JumperCut
-Kannact
-Keen
-Kickball
-Kimera
-Koffeebot
-Kokeena
-Konectab
-Kudough
-LanguageTwin
-Launcher.io
-launchside.com
-Lighthouse
-Little Bird
-Livfly
-Local Plate
-Looptworks
-LucentPDX
-lucid energy
-Lucid Meetings
-Lucky Sort
-LUME
-Lumen Learning
-lumous
-Lytics
-Mailr.io
-Maurerville
-Measureful
-menuish
-Meridian 
-MineCRM
-Minetta Brook
-Mirador Financial
-Mirror Realms
-Mitu
-MobileRQ
-mobilitus.com
-Mobspot
-Molecule Synth
-MoPix
-Mountain Machine Games
-Mozilla
-Mugasha
-Muut
-My Street Grocery
-My World News
-New Relic
-Night & Day Studios
-Nodify
-Notion
-Nouvola
-NurseGrid
-Object Theory
-On the plates
-onthego 
-Opal Labs
-OpenSesame
-OpenSourcery
-Orchestrate
-Outdoor Project
-Paasenger
-Paleo Plan
-Panic
-Paydici
-PayRange
-Peeka
-Perceivit
-Perfect
-perka
-Permetia Envirotech
-Physician Relocation Specialists
-Pillsy
-pivotplanet
-Planet Argon
-Platial
-Player 01
-Playmunity
-Plunk
-Poachedjobs
-Portland's Own
-Postano
-PressVI
-PrestoBox
-Price Guide
-Pulse Health
-Puppet Labs
-Rainbow Technology
-RainMaker
-RallyCause
-Rap Grid
-RecBob
-ReelDx
-Reflect
-Refresh Media
-Rera Health
-returnguru
-Revelation
-Revisu
-Rezzi
-RFPio
-Ride Report
-Rigado
-Rising Tide Innovations
-RNA Networks
-Rumblefish 
-Salemarkd
-SavorSearch
-Scoreboard Invoicing
-Scratch-it
-Scribbletone
-Second Porch
-SecuriDOT
-SEED
-Selfpubd
-SendSmart
-serps.com
-Shopaddict
-ShopAddikt
-ShopIgniter
-ShopTender (formerly blkdot)
-showkicker.com
-Showyou
-Shurky Jurky
-Sightbox
-Simple
-Simple Emotion
-Simplifilm
-Sketch.io
-Skyward
-sleepninja games
-Small World News
-Smart Mocha
-Snowledge
-Snowy Evening
-SocialBlend
-SpaceView
-Splash
-Sports Database
-Spot Metrix
-spotsi
-Sprintly
-Sprout At Work
-Staffing Robot
-Stand in
-StatDragon
-Statyourself
-Stayhound
-Storycode
-Sublime Learning
-Subscription Tools
-SurveyMonkey
-SwellPath
-Switchboard
-Syndical
-Tally
-taplister
-Teak (formerly Carrot)
-teamhively.com
-Tellagence
-Tender
-The Brigade
-The Clymb
-The R-Group
-TheAVproject
-Theme Dragon
-Thetus
-tindie.com
-Tixie
-Together Underground
-Totem
-Trakt
-Treehouse
-Trisef Book
-Truyu
-Tubaloo
-Tubaloo
-Uncorked Studios (Gorlochs)
-Uprinta
-Upstart Labs
-Urban Airship
-Vadio
-Velocis
-VendNext
-VendScreen
-Vets First Choice
-Viddiyo
-Vizify
-VodPod
-VoicePass Technology
-VRN Jobs
-WalkerTracker
-Webtrends
-WedBrilliant
-WeMakePDX
-Wikisway
-WILD 
-WILDFANG
-Womply
-Wordspreadz
-Workfrom
-WorldState
-yourbrandlivecom
-Zapproved
-Zeppidy
-Zoofaroo
-Zooza
+- 38 Zeros
+- 4-tell.com
+- AboutUs
+- Accumulus
+- Adherial
+- Agilyx
+- Alum.ni
+- Amused Now
+- Antenna
+- AppFog
+- AppThwack
+- Athletemob
+- Athletepath  
+- AudioName
+- Automagically
+- Bac'n
+- Bass Masta
+- beeminder
+- Betabook
+- BetaTrek
+- Bigdaa
+- Bilingualhire
+- bitharvest
+- BlitzMetrics
+- Blueshift
+- Book Supply Co
+- Boots n All  
+- Brandlive
+- Brickstr
+- Bright.md
+- Brightwork
+- Cake Systems
+- Cascadia Games
+- CASH Music
+- CashStar
+- Cedexis
+- Celly 
+- CerCis Consulting
+- ChickTech
+- Chinook Book
+- chirpify
+- Chroma 
+- Circle Media
+- CiteAds
+- Civil
+- Clibe
+- Clicky
+- Cloudability
+- cloudydays
+- Clutch Play Games
+- CoachBase
+- cocollage.com
+- Code Scouts (acquired by ChickTech)
+- Cointhink
+- COLOURlovers
+- comic-rocket.com
+- Concrete5
+- Conscious Box
+- Conversa Health
+- Copatient
+- Cozy
+- CPUsage
+- Creative Market (acquired by Autodesk)
+- Creativity Gamelab
+- Crowd Supply
+- CrowdStreet
+- Cuddle Mattress
+- Customer.io
+- DADO Labs
+- DailyPath 
+- Dart
+- Deconstructed
+- Digital Trends
+- Divine Universal Studies
+- DongleKong
+- dot dot dash (Stublisher)
+- Dovie (defunct)
+- Dwellingo
+- Earth Techling
+- Ecozoom
+- Elemental (acquired by Amazon)
+- Elevation Lab
+- Eleven
+- Elli
+- Embodee
+- Emoomee
+- Energy Storage Systems
+- entp
+- EnviJet
+- Epipheo
+- Factor.io
+- Favery
+- Find Wellness
+- FishingGear.com
+- FitCause 
+- FitDeck
+- Fleet
+- Fling
+- FOMO Sonar
+- Forkfly
+- Foxing
+- FUNDA
+- FunnelBox
+- FXserve
+- GadgetTrak
+- Generous
+- GEO'Supp
+- Geoloqi (acquired by Esri)
+- GeoPalz
+- Giftango (acquired)
+- gigapan
+- Glider (acquired)
+- gliph  
+- globesherpa.com (acquired)
+- Go 2 Network
+- Golf Clubs
+- GoRecess
+- Gradetree
+- Graph Alchemist
+- Grublits
+- Gruntworks
+- Gymbo
+- Hallspot
+- HealthSaaS
+- Here File, File
+- HighFive
+- Hintme
+- HiringThing
+- House Happy
+- Hubbub Health
+- Hyperlayer
+- iFlipd
+- Imagars
+- Imaginot
+- IncitED
+- Incredible
+- Indie Vinos
+- Infinity Softworks
+- ingridsolutions.com
+- Insidr
+- Instrument
+- IOTAS
+- Iovation
+- Iterasi
+- Jama
+- Janrain
+- Jive
+- JourneyGym
+- JumperCut
+- Kannact
+- Keen
+- Kickball
+- Kimera
+- Koffeebot
+- Kokeena
+- Konectab
+- Kudough
+- LanguageTwin
+- Launcher.io
+- launchside.com
+- Lighthouse
+- Little Bird
+- Livfly
+- Local Plate
+- Looptworks
+- LucentPDX
+- lucid energy
+- Lucid Meetings
+- Lucky Sort (acquired by Twitter)
+- LUME
+- Lumen Learning
+- lumous
+- Lytics
+- Made
+- Mailr.io
+- Maurerville
+- Measureful (acquired by Chirpify)
+- menuish
+- Meridian (acquired by Aruba, Aruba acquired by HP)
+- MineCRM
+- Minetta Brook
+- Mirador Financial
+- Mirror Realms
+- Mitu
+- MobileRQ
+- mobilitus.com
+- Mobspot
+- Molecule Synth
+- MoPix
+- Mountain Machine Games
+- Mozilla
+- Mugasha
+- Muut
+- My Street Grocery
+- My World News
+- New Relic 
+- Night & Day Studios
+- Nodify
+- Notion
+- Nouvola
+- NurseGrid
+- Object Theory
+- On the plates
+- onthego platforms (acquired)
+- Opal Labs
+- OpenSesame
+- OpenSourcery
+- Orchestrate (acquired by CenturyLink)
+- Outdoor Project
+- Paasenger
+- Paleo Plan (acquired)
+- Panic
+- Paydici
+- PayRange
+- Peeka
+- Perceivit
+- Perfect
+- perka (acquired)
+- Permetia Envirotech
+- Physician Relocation Specialists
+- Pillsy
+- pivotplanet
+- Planet Argon
+- Platial
+- Player 01
+- Playmunity
+- Plunk
+- Poachedjobs
+- Portland's Own
+- Postano (acquired by TigerLogic)
+- PressVI
+- PrestoBox
+- Price Guide
+- Pulse Health
+- Puppet Labs
+- Rainbow Technology
+- RainMaker
+- RallyCause
+- Rap Grid
+- RecBob
+- ReelDx
+- Reflect
+- Refresh Media
+- Rera Health
+- returnguru
+- Revelation
+- Revisu
+- Rezzi
+- RFPio
+- Ride Report
+- Rigado
+- RipFog (acquired by Cloudability)
+- Rising Tide Innovations
+- RNA Networks
+- Rumblefish 
+- Salemarkd
+- SavorSearch
+- Scoreboard Invoicing
+- Scratch-it
+- Scribbletone
+- Second Porch (acquired by Homeaway)
+- SecuriDOT
+- SEED
+- Selfpubd
+- SendSmart
+- serps.com
+- Shopaddict
+- ShopAddikt
+- ShopIgniter (acquired)
+- ShopTender (formerly blkdot)
+- showkicker.com
+- Showyou (acquired)
+- Shurky Jurky
+- Sightbox
+- Simple (acquired)
+- Simple Emotion
+- Simplifilm
+- Sketch.io
+- Skyward
+- sleepninja games
+- Small World News
+- Smart Mocha
+- Snowledge
+- Snowy Evening
+- SocialBlend
+- SpaceView
+- Splash
+- SplashCast
+- Sports Database
+- Spot Metrix
+- spotsi
+- Sprintly
+- Sprout At Work
+- Staffing Robot
+- Stand in
+- StatDragon
+- Statyourself
+- Stayhound
+- Storycode
+- Sublime Learning
+- Subscription Tools
+- SurveyMonkey
+- SwellPath
+- Switchboard
+- Syndical
+- TalentIQ
+- Tally
+- taplister
+- Teak (formerly Carrot)
+- teamhively.com
+- Tellagence
+- Tender
+- The Brigade
+- The Clymb (acquired)
+- The R-Group
+- TheAVproject
+- Theme Dragon
+- Thetus
+- tindie.com (acquired)
+- Tixie
+- Together Underground
+- Totem
+- Trakt
+- Treehouse
+- Trisef Book
+- Truyu
+- Tubaloo
+- Uncorked Studios (formerly Gorlochs)
+- Uprinta
+- Upstart Labs (defunct)
+- Urban Airship
+- Vadio
+- Velocis
+- VendNext
+- VendScreen
+- Vets First Choice
+- Viddiyo
+- Vizify (acquired by Yahoo!)
+- VodPod
+- VoicePass Technology
+- VRN Jobs
+- WalkerTracker
+- Webtrends
+- WedBrilliant
+- WeMakePDX
+- Wikisway
+- WILD 
+- WILDFANG
+- Womply
+- Wordspreadz
+- Workfrom
+- WorldState
+- yourbrandlivecom
+- Zapproved
+- Zeppidy
+- Zoofaroo
+- ZOOM+
+- Zooza
 
 ..  _home:
