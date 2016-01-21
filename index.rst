@@ -347,7 +347,6 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Staffing Robot
 - Stand in
 - StatDragon
-- Statyourself
 - Stayhound
 - Storycode
 - Sublime Learning
@@ -393,6 +392,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - VoicePass Technology
 - VRN Jobs
 - WalkerTracker
+- WbSrch
 - Webtrends
 - WedBrilliant
 - WeMakePDX
