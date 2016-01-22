@@ -49,7 +49,7 @@ Tech startup accelerators
 
 Portland startups
 ----------
-This is an admittedly imperfect list of Portland startups. But it's a start. Please make suggestions, edits, and refinements so that this can be a more comprehensive list. 
+This is an admittedly imperfect list of Portland startups. But it's a start. Please make suggestions, edits, and refinements so that this can be a more comprehensive list. When the status of a startup changes, please leave the name and append additional info within parens, e.g., (defunct), (acquired), (acquired by [Company name]), (formerly [Previous name]).
 
 - 38 Zeros
 - 4-tell.com
