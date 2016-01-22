@@ -337,6 +337,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Snowy Evening
 - SocialBlend
 - SpaceView
+- Sphaera Solutions
 - Splash
 - SplashCast
 - Sports Database
