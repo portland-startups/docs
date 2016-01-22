@@ -126,7 +126,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Digital Trends
 - Divine Universal Studies
 - DongleKong
-- dot dot dash (Stublisher)
+- dot dot dash (formerly Stublisher)
 - Dovie (defunct)
 - Dwellingo
 - Earth Techling
