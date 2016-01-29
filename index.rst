@@ -59,16 +59,18 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Agilyx
 - Alum.ni
 - Amused Now
+- Answerbox 
 - Antenna
-- AppFog
-- AppThwack
+- AppFog (Acquired by CenturyLink)
+- AppThwack (Acquired by Amazon)
 - Athletemob
 - Athletepath  
 - AudioName
 - Automagically
 - Bac'n
-- Bass Masta
+- Bass Masta (Acquired)
 - beeminder
+- Befunky
 - Betabook
 - BetaTrek
 - Bigdaa
@@ -105,7 +107,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - cocollage.com
 - Code Scouts (acquired by ChickTech)
 - Cointhink
-- COLOURlovers
+- COLOURlovers (merged with Creative Market)
 - comic-rocket.com
 - Concrete5
 - Conscious Box
@@ -226,6 +228,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Lytics
 - Made
 - Mailr.io
+- MammothHR
 - Maurerville
 - Measureful (acquired by Chirpify)
 - menuish
@@ -345,6 +348,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - spotsi
 - Sprintly
 - Sprout At Work
+- Squash Reports
 - Staffing Robot
 - Stand in
 - StatDragon
