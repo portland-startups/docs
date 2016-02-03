@@ -381,6 +381,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Together Underground
 - Totem
 - Trakt
+- Trapit
 - Treehouse
 - Trisef Book
 - Truyu
