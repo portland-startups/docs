@@ -85,6 +85,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Bright.md
 - Brightwork
 - Cake Systems
+- Camp Near Me
 - Cascadia Games
 - CASH Music
 - CashStar
@@ -229,6 +230,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Made
 - Mailr.io
 - MammothHR
+- MathLeap
 - Maurerville
 - Measureful (acquired by Chirpify)
 - menuish
@@ -303,6 +305,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Revisu
 - Rezzi
 - RFPio
+- Ribbn
 - Ride Report
 - Rigado
 - RipFog (acquired by Cloudability)
