@@ -57,6 +57,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Accumulus
 - Adherial
 - Agilyx
+- Alma
 - Alum.ni
 - Amused Now
 - Answerbox 
@@ -216,6 +217,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - launchside.com
 - Lighthouse
 - Little Bird
+- Livestock Framing
 - Livfly
 - Local Plate
 - Looptworks
@@ -283,7 +285,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Player 01
 - Playmunity
 - Plunk
-- Poachedjobs
+- Poached
 - Portland's Own
 - Postano (acquired by TigerLogic)
 - PressVI
