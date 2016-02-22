@@ -133,6 +133,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - DongleKong
 - dot dot dash (formerly Stublisher)
 - Dovie (defunct)
+- Droneseed
 - Dwellingo
 - Earth Techling
 - Ecozoom
