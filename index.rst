@@ -17,6 +17,7 @@ Tech community
 Coworking spaces
 ----------
 - CENTRL Office (http://centrloffice.com/)
+- Clean Slate (http://www.cleanslatepdx.com/)
 - Collective Agency (https://collectiveagency.co/)
 - DeskHub Portland (http://www.deskhub.com/portland)
 - Factory @ The Ford (http://www.fordbuildingpdx.com/)
