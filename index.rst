@@ -1,4 +1,4 @@
-Portland, Oregon, startup scene
+Portland, Oregon, startup community
 ======================
 
 Portland does an incredibly good job of describing what's happening in the startup scene anecdotally, but an incredibly poor job of quantifying what is actually happening. This will be an effort to better quantify and capture what's happening in the Portland startup scene.
@@ -31,8 +31,9 @@ Coworking spaces
 Tech startup accelerators
 ----------
 - Amplify (Defunct)
-- e1ectr0n (http://www.e1ectr0n.com/)
 - Cambia Health Solutions (http://www.cambiahealth.com/companies/)
+- e1ectr0n (http://www.e1ectr0n.com/)
+- Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
 - Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/)
 - Nike+ Accelerator (defunct)
 - Oregon Story Board (http://oregonstoryboard.org/)
@@ -46,6 +47,21 @@ Tech startup accelerators
 - TiE Westside Incubator (Defunct)
 - TranscendIT Health (http://transcendithealth.com/)
 - Upstart Labs (defunct)
+
+Active local investors and funding competitions
+----------
+- Alley Group (http://www.thealleygroupllc.com/)
+- Bend Venture Conference (http://bendvc.edcoinfo.com/)
+- Elevate Capital (http://elevate.vc/)
+- Madrona Venture Group (http://www.madrona.com/) 
+- Oregon Angel Fund (http://oregonangelfund.com/)
+- Oregon Entrepreneur Network Angel Oregon (https://www.oen.org/programs-services/angel-oregon/)
+- Portland Seed Fund (http://www.portlandseedfund.com/)
+- Rogue Venture Partners (http://roguevp.com/)
+- Seven Peaks Ventures (http://sevenpeaksventures.com/)
+- TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
+- Voyager Capital (http://www.voyagercapital.com/)
+- Willamette Angel Conference (http://willametteconference.com/)
 
 Portland startups
 ----------
