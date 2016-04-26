@@ -310,6 +310,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - PressVI
 - PrestoBox
 - Price Guide
+- Provata Health
 - Pulse Health
 - Puppet Labs
 - Rainbow Technology
