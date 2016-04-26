@@ -53,6 +53,7 @@ Active local investors and funding competitions
 ----------
 - Alley Group (http://www.thealleygroupllc.com/)
 - Bend Venture Conference (http://bendvc.edcoinfo.com/)
+- Cascade Angels (http://www.cascadeangels.com/)
 - Elevate Capital (http://elevate.vc/)
 - Madrona Venture Group (http://www.madrona.com/) 
 - Oregon Angel Fund (http://oregonangelfund.com/)
