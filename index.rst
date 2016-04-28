@@ -44,10 +44,10 @@ Tech startup accelerators
 - Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
 - Portland TenX (http://tenx.org/)
 - Startup PDX Challenge (http://www.pdc.us/startuppdxchallenge.aspx)
-- TiE Pearl (http://tiepearl.com/)
+- TiE Pearl (Defunct)
 - TiE Westside Incubator (Defunct)
 - TranscendIT Health (http://transcendithealth.com/)
-- Upstart Labs (defunct)
+- Upstart Labs (Defunct)
 
 Active local investors and funding competitions
 ----------
