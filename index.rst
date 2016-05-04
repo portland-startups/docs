@@ -334,6 +334,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - RipFog (acquired by Cloudability)
 - Rising Tide Innovations
 - RNA Networks
+- Roaster Tools
 - Rumblefish 
 - Salemarkd
 - SavorSearch
