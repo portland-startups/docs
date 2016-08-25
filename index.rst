@@ -19,13 +19,10 @@ Coworking spaces
 - CENTRL Office (http://centrloffice.com/)
 - Clean Slate (http://www.cleanslatepdx.com/)
 - Collective Agency (https://collectiveagency.co/)
-- DeskHub Portland (http://www.deskhub.com/portland)
 - Factory @ The Ford (http://www.fordbuildingpdx.com/)
-- Grand Basement (http://www.pdxcoworking.space/)
 - Forge (http://www.forgeportland.org/)
 - NedSpace (http://nedspace.com/)
 - NXT Industries (http://nxt.industries/)
-- Venture Business Centers (https://www.venturebusinesscenters.com/)
 - WeWork Custom House (https://www.wework.com/locations/portland/custom-house)
 - Workfrom Portland (https://workfrom.co/portland)
 
