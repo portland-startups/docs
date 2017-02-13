@@ -130,6 +130,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Concrete5
 - Conscious Box
 - Conversa Health
+- Convertist
 - Copatient
 - Cozy
 - CPUsage
@@ -177,6 +178,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - FunnelBox
 - FXserve
 - GadgetTrak
+- Gathrly
 - Generous
 - GEO'Supp
 - Geoloqi (acquired by Esri)
@@ -219,7 +221,6 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Jama
 - Janrain
 - Jive
-- JourneyGym
 - JumperCut
 - Kannact
 - Keen
@@ -355,6 +356,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Simple (acquired)
 - Simple Emotion
 - Simplifilm
+- Sitecast
 - Sketch.io
 - Skyward
 - sleepninja games
@@ -393,6 +395,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Tender
 - The Brigade
 - The Clymb (acquired)
+- The Dyrt
 - The R-Group
 - TheAVproject
 - Theme Dragon
@@ -411,7 +414,6 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Uprinta
 - Upstart Labs (defunct)
 - Urban Airship
-- Vadio
 - Velocis
 - VendNext
 - VendScreen
@@ -422,7 +424,6 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - VoicePass Technology
 - VRN Jobs
 - WalkerTracker
-- WbSrch
 - Webtrends
 - WedBrilliant
 - WeMakePDX
@@ -435,6 +436,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - WorldState
 - yourbrandlivecom
 - Zapproved
+- Zeta Centauri
 - Zeppidy
 - Zoofaroo
 - ZOOM+
