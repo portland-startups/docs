@@ -80,10 +80,10 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - AppFog (Acquired by CenturyLink)
 - AppThwack (Acquired by Amazon)
 - Athletemob
-- Athletepath  
+- Athletepath (Acquired by IMathlete) 
 - AudioName
 - Automagically
-- Bac'n
+- Bac'n (Acquired)
 - Bass Masta (Acquired)
 - beeminder
 - Befunky
@@ -132,7 +132,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Conversa Health
 - Copatient
 - Cozy
-- CPUsage
+- CPUsage (Defunct)
 - Creative Market (acquired by Autodesk)
 - Creativity Gamelab
 - Crowd Supply
@@ -186,7 +186,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - gigapan
 - Glider (acquired)
 - gliph  
-- globesherpa.com (acquired)
+- globesherpa.com (acquired, now moovel NA)
 - Go 2 Network
 - Golf Clubs
 - GoRecess
@@ -200,7 +200,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Here File, File
 - HighFive
 - Hintme
-- HiringThing
+- HiringThing (Acquired)
 - House Happy
 - Hubbub Health
 - Hyperlayer
@@ -234,7 +234,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Launcher.io
 - launchside.com
 - Lighthouse
-- Little Bird
+- Little Bird (Acquired by Sprinklr)
 - Livestock Framing
 - Livfly
 - Local Plate
@@ -264,12 +264,12 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - mobilitus.com
 - Mobspot
 - Molecule Synth
-- MoPix
+- MoPix (Defunct)
 - Mountain Machine Games
 - Mozilla
 - Mugasha
 - Muut
-- My Street Grocery
+- My Street Grocery (Acquired by Whole Foods)
 - My World News
 - New Relic 
 - Night & Day Studios
@@ -279,7 +279,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - NurseGrid
 - Object Theory
 - On the plates
-- onthego platforms (acquired)
+- onthego platforms (acquired by Atheer)
 - Opal Labs
 - OpenSesame
 - OpenSourcery
@@ -288,7 +288,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Paasenger
 - Paleo Plan (acquired)
 - Panic
-- Paydici
+- Paydici (acquired)
 - PayRange
 - Peeka
 - Perceivit
@@ -302,7 +302,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Platial
 - Player 01
 - Playmunity
-- Plunk
+- Plunk (Defunct)
 - Poached
 - Portland's Own
 - Postano (acquired by TigerLogic)
@@ -311,7 +311,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Price Guide
 - Provata Health
 - Pulse Health
-- Puppet Labs
+- Puppet
 - Rainbow Technology
 - RainMaker
 - RallyCause
@@ -323,7 +323,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Rera Health
 - returnguru
 - Revelation
-- Revisu
+- Revisu (Defunct)
 - Rezzi
 - RFPio
 - Ribbn
@@ -337,7 +337,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Salemarkd
 - SavorSearch
 - Scoreboard Invoicing
-- Scratch-it
+- Scratch-it (now known as Zembula)
 - Scribbletone
 - Second Porch (acquired by Homeaway)
 - SecuriDOT
@@ -353,7 +353,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Showyou (acquired)
 - Shurky Jurky
 - Sightbox
-- Simple (acquired)
+- Simple (acquired by BBVA)
 - Simple Emotion
 - Simplifilm
 - Sketch.io
@@ -377,7 +377,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Staffing Robot
 - Stand in
 - StatDragon
-- Stayhound
+- Stayhound (Defunct)
 - Storycode
 - Sublime Learning
 - Subscription Tools
@@ -415,7 +415,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Vadio
 - Velocis
 - VendNext
-- VendScreen
+- VendScreen (acquired)
 - Vets First Choice
 - Viddiyo
 - Vizify (acquired by Yahoo!)
@@ -436,6 +436,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - WorldState
 - yourbrandlivecom
 - Zapproved
+- Zembula (formerly Scratch-It)
 - Zeppidy
 - Zoofaroo
 - ZOOM+
