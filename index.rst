@@ -32,7 +32,7 @@ Coworking spaces
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
 
-Tech startup accelerators
+Startup accelerators
 ----------
 - Amplify (Defunct)
 - Cambia Health Solutions (http://www.cambiahealth.com/companies/)
@@ -44,7 +44,8 @@ Tech startup accelerators
 - Nike+ Accelerator (Defunct)
 - Oregon Story Board (Defunct)
 - OTBC (http://otbc.org/)
-- PIE (http://piepdx.com/)
+- PIE (https://piepdx.com/)
+- PIE Shop (https://piepdx.com)
 - Portland Seed Fund (http://portlandseedfund.com/)
 - Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
 - Portland TenX (http://tenx.org/)
