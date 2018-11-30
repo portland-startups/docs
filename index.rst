@@ -38,6 +38,7 @@ Tech startup accelerators
 - Cambia Health Solutions (http://www.cambiahealth.com/companies/)
 - e1ectr0n (http://www.e1ectr0n.com/)
 - Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
+- The Initiative (https://www.intheinitiative.com/)
 - Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/)
 - Nike+ Accelerator (defunct)
 - Oregon Story Board (http://oregonstoryboard.org/)
@@ -49,8 +50,12 @@ Tech startup accelerators
 - Startup PDX Challenge (http://www.pdc.us/startuppdxchallenge.aspx)
 - TiE Pearl (Defunct)
 - TiE Westside Incubator (Defunct)
+- TiE XL Bootcamp Beaverton (https://oregon.tie.org/tie-xl-boot-camp-all-industries-in-beaverton/)
+- TiE XL Bootcamp Cannabis (https://oregon.tie.org/tie-xl-boot-camp-cannabis-industry/)
+- TiE XL Bootcamp Portland (https://oregon.tie.org/tie-entrepreneur-boot-camp/portland/)
 - TranscendIT Health (http://transcendithealth.com/)
 - Upstart Labs (Defunct)
+- XXcelerator (https://www.xxceleratefund.com/xxcelerator/)
 
 Active local investors and funding competitions
 ----------
