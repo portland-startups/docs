@@ -17,34 +17,48 @@ Tech community
 Coworking spaces
 ----------
 - CENTRL Office (http://centrloffice.com/)
+     - Eastside
+     - Pearl
+     - Westend
 - Clean Slate (http://www.cleanslatepdx.com/)
 - Collective Agency (https://collectiveagency.co/)
 - Factory @ The Ford (http://www.fordbuildingpdx.com/)
 - Forge (http://www.forgeportland.org/)
 - NedSpace (http://nedspace.com/)
 - NXT Industries (http://nxt.industries/)
-- WeWork Custom House (https://www.wework.com/locations/portland/custom-house)
+- WeWork 
+     - Custom House (https://www.wework.com/locations/portland/custom-house)
+     - Pioneer Place (https://www.wework.com/buildings/pioneer-place--portland--OR)
+     - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
 
-Tech startup accelerators
+Startup accelerators
 ----------
 - Amplify (Defunct)
 - Cambia Health Solutions (http://www.cambiahealth.com/companies/)
 - e1ectr0n (http://www.e1ectr0n.com/)
 - Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
+- The Initiative (https://www.intheinitiative.com/)
 - Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/)
-- Nike+ Accelerator (defunct)
-- Oregon Story Board (http://oregonstoryboard.org/)
+- LEAP Venture Studio (https://www.leapventurestudio.com/)
+- Nike+ Accelerator (Defunct)
+- Oregon Story Board (Defunct)
 - OTBC (http://otbc.org/)
-- PIE (http://piepdx.com/)
+- PIE (https://piepdx.com/)
+- PIE Shop (https://piepdx.com)
 - Portland Seed Fund (http://portlandseedfund.com/)
 - Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
 - Portland TenX (http://tenx.org/)
-- Startup PDX Challenge (http://www.pdc.us/startuppdxchallenge.aspx)
+- Startup PDX Challenge (Defunct)
+- Starve Ups (https://www.starveups.com/)
 - TiE Pearl (Defunct)
 - TiE Westside Incubator (Defunct)
-- TranscendIT Health (http://transcendithealth.com/)
+- TiE XL Bootcamp Beaverton (https://oregon.tie.org/tie-xl-boot-camp-all-industries-in-beaverton/)
+- TiE XL Bootcamp Cannabis (https://oregon.tie.org/tie-xl-boot-camp-cannabis-industry/)
+- TiE XL Bootcamp Portland (https://oregon.tie.org/tie-entrepreneur-boot-camp/portland/)
+- TranscendIT Health (Defunct)
 - Upstart Labs (Defunct)
+- XXcelerator (https://www.xxceleratefund.com/xxcelerator/)
 
 Active local investors and funding competitions
 ----------
