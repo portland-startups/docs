@@ -17,13 +17,19 @@ Tech community
 Coworking spaces
 ----------
 - CENTRL Office (http://centrloffice.com/)
+     - Eastside
+     - Pearl
+     - Westend
 - Clean Slate (http://www.cleanslatepdx.com/)
 - Collective Agency (https://collectiveagency.co/)
 - Factory @ The Ford (http://www.fordbuildingpdx.com/)
 - Forge (http://www.forgeportland.org/)
 - NedSpace (http://nedspace.com/)
 - NXT Industries (http://nxt.industries/)
-- WeWork Custom House (https://www.wework.com/locations/portland/custom-house)
+- WeWork 
+     - Custom House (https://www.wework.com/locations/portland/custom-house)
+     - Pioneer Place (https://www.wework.com/buildings/pioneer-place--portland--OR)
+     - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
 
 Tech startup accelerators
