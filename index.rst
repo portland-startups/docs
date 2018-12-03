@@ -41,6 +41,7 @@ Startup accelerators
 - The Initiative (https://www.intheinitiative.com/)
 - Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/)
 - LEAP Venture Studio (https://www.leapventurestudio.com/)
+- Nike Valiant Labs
 - Nike+ Accelerator (Defunct)
 - Oregon Bioscience Incubator (https://otradi.org)
 - Oregon Story Board (Defunct)
