@@ -60,6 +60,7 @@ Startup accelerators
 - TiE XL Bootcamp Portland (https://oregon.tie.org/tie-entrepreneur-boot-camp/portland/)
 - TranscendIT Health (Defunct)
 - Upstart Labs (Defunct)
+- WeWork Labs Portland (https://www.wework.com/labs)
 - XXcelerator (https://www.xxceleratefund.com/xxcelerator/)
 
 Active local investors and funding competitions
