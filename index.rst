@@ -5,7 +5,7 @@ Portland does an incredibly good job of describing what's happening in the start
 
 Quick start guide
 ----------
-If you're interested in a quick tutorial on Portland startup scene resources, visit "How to Portland Startup Scene" (http://sflo.me/HowToPDX)
+If you're interested in a quick tutorial on Portland startup community resources, visit "How to Portland Startup Scene" (http://sflo.me/HowToPDX)
 
 Tech community
 ----------
