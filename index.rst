@@ -13,9 +13,10 @@ Tech community
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
 - Community chat (https://join.slack.com/t/pdxstartups/shared_invite/enQtMzQ0OTU1NDY4NjQ3LTZkNWJlYzNlZGY5NTZjZjliZDk4M2Y2MTYxNmRmMDRiZDhhMmU5MDI1MDZmNzQ1YmM4ZmNhODQwZTMyZjkzMzc)
 - News
-     - https://www.bizjournals.com/portland/
-     - https://www.oregonlive.com/silicon-forest/
-     - http://siliconflorist.com/
+     - Portland Business Journal (https://www.bizjournals.com/portland/)
+     - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
+     - Silicon Florist (https://siliconflorist.com/)
+     - Startup Digest Portland (http://eepurl.com/JZdUn)
 
 Coworking spaces
 ----------
