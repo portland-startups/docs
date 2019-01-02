@@ -11,8 +11,11 @@ Tech community
 ----------
 - Aggregated event calendar (http://calagator.org/)
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
-- Community chat (https://pdx-startups-slack.herokuapp.com/)
-- News (http://siliconflorist.com/)
+- Community chat (https://join.slack.com/t/pdxstartups/shared_invite/enQtMzQ0OTU1NDY4NjQ3LTZkNWJlYzNlZGY5NTZjZjliZDk4M2Y2MTYxNmRmMDRiZDhhMmU5MDI1MDZmNzQ1YmM4ZmNhODQwZTMyZjkzMzc)
+- News
+     - https://www.bizjournals.com/portland/
+     - https://www.oregonlive.com/silicon-forest/
+     - http://siliconflorist.com/
 
 Coworking spaces
 ----------
