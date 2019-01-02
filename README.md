@@ -1,4 +1,4 @@
-portland-startups
+Portland, Oregon, Startups
 =================
 
 Ah Portland. So good at anecdotal evidence and qualifying stuff. Not always so good at quatifying stuff. 
