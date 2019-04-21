@@ -317,6 +317,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - perka (acquired)
 - Permetia Envirotech
 - Physician Relocation Specialists
+- Piggybank (Defunct)
 - Pillsy
 - pivotplanet
 - Planet Argon
@@ -434,6 +435,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Upstart Labs (defunct)
 - Urban Airship
 - Vadio
+- Vault (acquired by Acorns)
 - Velocis
 - VendNext
 - VendScreen (acquired)
@@ -455,6 +457,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Wordspreadz
 - Workfrom
 - WorldState
+- Yorkshire Interactive
 - yourbrandlivecom
 - Zapproved
 - Zembula (formerly Scratch-It)
