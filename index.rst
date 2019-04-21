@@ -121,6 +121,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Brickstr
 - Bright.md
 - Brightwork
+- Bumped
 - Cake Systems
 - Camp Near Me
 - Cardsmith
@@ -203,7 +204,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - GEO'Supp
 - Geoloqi (acquired by Esri)
 - GeoPalz
-- Giftango (acquired)
+- Giftango (acquired by InComm)
 - gigapan
 - Glider (acquired)
 - gliph  
