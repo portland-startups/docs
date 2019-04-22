@@ -43,7 +43,7 @@ Startup accelerators
 - e1ectr0n (http://www.e1ectr0n.com/)
 - Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
 - The Initiative (https://www.intheinitiative.com/)
-- Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/)
+- Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Incubator is defunct, company still here)
 - LEAP Venture Studio (https://www.leapventurestudio.com/)
 - Nike Valiant Labs
 - Nike+ Accelerator (Defunct)
@@ -313,6 +313,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - PayRange
 - Peeka
 - Perceivit
+- People Data Labs (formerly TalentIQ)
 - Perfect
 - perka (acquired)
 - Permetia Envirotech
@@ -385,7 +386,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Snowledge
 - Snowy Evening
 - SocialBlend
-- SpaceView
+- SpaceView (acquired by Atheer)
 - Sphaera Solutions
 - Splash
 - SplashCast
@@ -397,7 +398,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Squash Reports
 - Staffing Robot
 - Stand in
-- StatDragon
+- StatDragon (Defunct)
 - Stayhound (Defunct)
 - Storycode
 - Sublime Learning
@@ -406,7 +407,6 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - SwellPath
 - Switchboard
 - Syndical
-- TalentIQ
 - Tally
 - taplister
 - Teak (formerly Carrot)
@@ -417,7 +417,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - The Clymb (acquired)
 - The R-Group
 - TheAVproject
-- Theme Dragon
+- Theme Dragon (Defunct)
 - Thetus
 - tindie.com (acquired)
 - Tixie
