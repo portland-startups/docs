@@ -11,7 +11,7 @@ Tech community
 ----------
 - Aggregated event calendar (http://calagator.org/)
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
-- Community chat (https://join.slack.com/t/pdxstartups/shared_invite/enQtMzQ0OTU1NDY4NjQ3LTZkNWJlYzNlZGY5NTZjZjliZDk4M2Y2MTYxNmRmMDRiZDhhMmU5MDI1MDZmNzQ1YmM4ZmNhODQwZTMyZjkzMzc)
+- Community chat (https://join.slack.com/t/pdxstartups/shared_invite/zt-a0fuj0yf-vkieJv9zEhPguaFkMsVXWg)
 - News
      - Portland Business Journal (https://www.bizjournals.com/portland/)
      - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
