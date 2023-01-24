@@ -31,13 +31,13 @@ Coworking spaces
 - Forge (http://www.forgeportland.org/) (Defunct)
 - NedSpace (http://nedspace.com/)
 - NXT Industries (http://nxt.industries/) (Defunct)
+- Upstart Collective (https://www.upstartcollective.org/)
+- VIDA (https://vidacoworking.com/)
 - WeWork 
      - Custom House (https://www.wework.com/locations/portland/custom-house) (Defunct)
      - Pioneer Place (https://www.wework.com/buildings/pioneer-place--portland--OR) (Defunct)
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
      - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
-- Upstart Collective (https://www.upstartcollective.org/)
-- VIDA (https://vidacoworking.com/)
 - Workfrom Portland (https://workfrom.co/portland)
 
 Startup accelerators
