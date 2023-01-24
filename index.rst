@@ -5,14 +5,18 @@ Portland does an incredibly good job of describing what's happening in the start
 
 Quick start guide
 ----------
-If you're interested in a quick tutorial on Portland startup scene resources, visit "How to Portland Startup Scene" (http://sflo.me/HowToPDX)
+If you're interested in a quick tutorial on Portland startup community resources, visit "How to Portland Startup Scene" (http://sflo.me/HowToPDX)
 
 Tech community
 ----------
 - Aggregated event calendar (http://calagator.org/)
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
-- Community chat (https://pdx-startups-slack.herokuapp.com/)
-- News (http://siliconflorist.com/)
+- Community chat (https://join.slack.com/t/pdxstartups/shared_invite/zt-a0fuj0yf-vkieJv9zEhPguaFkMsVXWg)
+- News
+     - Portland Business Journal (https://www.bizjournals.com/portland/)
+     - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
+     - Silicon Florist (https://siliconflorist.com/)
+     - Startup Digest Portland (http://eepurl.com/JZdUn)
 
 Coworking spaces
 ----------
@@ -40,7 +44,7 @@ Startup accelerators
 - e1ectr0n (http://www.e1ectr0n.com/)
 - Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
 - The Initiative (https://www.intheinitiative.com/) (Defunct)
-- Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Defunct)
+- Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Incubator is defunct, company still here)
 - LEAP Venture Studio (https://www.leapventurestudio.com/) (Moved)
 - Nike Valiant Labs
 - Nike+ Accelerator (Defunct)
@@ -118,6 +122,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Brickstr
 - Bright.md
 - Brightwork
+- Bumped
 - Cake Systems
 - Camp Near Me
 - Cardsmith
@@ -200,7 +205,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - GEO'Supp
 - Geoloqi (acquired by Esri)
 - GeoPalz
-- Giftango (acquired)
+- Giftango (acquired by InComm)
 - gigapan
 - Glider (acquired)
 - gliph  
@@ -310,10 +315,12 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - PayRange
 - Peeka
 - Perceivit
+- People Data Labs (formerly TalentIQ)
 - Perfect
 - perka (acquired)
 - Permetia Envirotech
 - Physician Relocation Specialists
+- Piggybank (Defunct)
 - Pillsy
 - pivotplanet
 - Planet Argon
@@ -382,7 +389,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Snowledge
 - Snowy Evening
 - SocialBlend
-- SpaceView
+- SpaceView (acquired by Atheer)
 - Sphaera Solutions
 - Splash
 - SplashCast
@@ -394,7 +401,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Squash Reports
 - Staffing Robot
 - Stand in
-- StatDragon
+- StatDragon (Defunct)
 - Stayhound (Defunct)
 - Storycode
 - Sublime Learning
@@ -403,7 +410,6 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - SwellPath
 - Switchboard
 - Syndical
-- TalentIQ
 - Tally
 - taplister
 - Teak (formerly Carrot)
@@ -414,7 +420,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - The Clymb (acquired)
 - The R-Group
 - TheAVproject
-- Theme Dragon
+- Theme Dragon (Defunct)
 - Thetus
 - tindie.com (acquired)
 - Tixie
@@ -431,6 +437,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Upstart Labs (defunct)
 - Urban Airship
 - Vadio
+- Vault (acquired by Acorns)
 - Velocis
 - VendNext
 - VendScreen (acquired)
@@ -452,6 +459,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Wordspreadz
 - Workfrom
 - WorldState
+- Yorkshire Interactive
 - yourbrandlivecom
 - Zapproved
 - Zembula (formerly Scratch-It)
