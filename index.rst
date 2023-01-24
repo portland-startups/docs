@@ -11,7 +11,7 @@ Tech community
 ----------
 - Aggregated event calendar (http://calagator.org/)
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
-- Community chat (https://join.slack.com/t/pdxstartups/shared_invite/zt-a0fuj0yf-vkieJv9zEhPguaFkMsVXWg)
+- Community chat (https://pdxslack.com)
 - News
      - Portland Business Journal (https://www.bizjournals.com/portland/)
      - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
@@ -22,6 +22,7 @@ Coworking spaces
 ----------
 - CENTRL Office (http://centrloffice.com/)
      - Eastside
+     - Lake Oswego
      - Pearl
      - Westend
 - Clean Slate (http://www.cleanslatepdx.com/) (Defunct)
@@ -35,6 +36,8 @@ Coworking spaces
      - Pioneer Place (https://www.wework.com/buildings/pioneer-place--portland--OR) (Defunct)
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
      - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
+- Upstart Collective (https://www.upstartcollective.org/)
+- VIDA (https://vidacoworking.com/)
 - Workfrom Portland (https://workfrom.co/portland)
 
 Startup accelerators
