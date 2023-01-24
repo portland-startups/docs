@@ -24,16 +24,17 @@ Coworking spaces
      - Eastside
      - Pearl
      - Westend
-- Clean Slate (http://www.cleanslatepdx.com/)
-- Collective Agency (https://collectiveagency.co/)
-- Factory @ The Ford (http://www.fordbuildingpdx.com/)
-- Forge (http://www.forgeportland.org/)
+- Clean Slate (http://www.cleanslatepdx.com/) (Defunct)
+- Collective Agency (https://collectiveagency.co/) (Defunct)
+- Factory @ The Ford (http://www.fordbuildingpdx.com/) (Defunct)
+- Forge (http://www.forgeportland.org/) (Defunct)
 - NedSpace (http://nedspace.com/)
-- NXT Industries (http://nxt.industries/)
+- NXT Industries (http://nxt.industries/) (Defunct)
 - WeWork 
-     - Custom House (https://www.wework.com/locations/portland/custom-house)
-     - Pioneer Place (https://www.wework.com/buildings/pioneer-place--portland--OR)
+     - Custom House (https://www.wework.com/locations/portland/custom-house) (Defunct)
+     - Pioneer Place (https://www.wework.com/buildings/pioneer-place--portland--OR) (Defunct)
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
+     - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
 
 Startup accelerators
@@ -42,9 +43,9 @@ Startup accelerators
 - Cambia Health Solutions (http://www.cambiahealth.com/companies/)
 - e1ectr0n (http://www.e1ectr0n.com/)
 - Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
-- The Initiative (https://www.intheinitiative.com/)
+- The Initiative (https://www.intheinitiative.com/) (Defunct)
 - Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Incubator is defunct, company still here)
-- LEAP Venture Studio (https://www.leapventurestudio.com/)
+- LEAP Venture Studio (https://www.leapventurestudio.com/) (Moved)
 - Nike Valiant Labs
 - Nike+ Accelerator (Defunct)
 - Oregon Bioscience Incubator (https://otradi.org)
@@ -64,8 +65,8 @@ Startup accelerators
 - TiE XL Bootcamp Portland (https://oregon.tie.org/tie-entrepreneur-boot-camp/portland/)
 - TranscendIT Health (Defunct)
 - Upstart Labs (Defunct)
-- WeWork Labs Portland (https://www.wework.com/labs)
-- XXcelerator (https://www.xxceleratefund.com/xxcelerator/)
+- WeWork Labs Portland (https://www.wework.com/labs) (Defunct)
+- XXcelerator (https://www.xxceleratefund.com/xxcelerator/) (Defunct)
 
 Active local investors and funding competitions
 ----------
