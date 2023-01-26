@@ -7,13 +7,14 @@ Quick start guide
 ----------
 If you're interested in a quick tutorial on Portland startup community resources, visit https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
 
-Tech community
+Community
 ----------
 - Aggregated event calendar (http://calagator.org/)
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
 - Community chat (https://pdxslack.com)
+- Local Mastodon instance (https://pdx.social/)
 - News
-     - Portland Business Journal (https://www.bizjournals.com/portland/)
+     - Portland Business Journal (https://www.bizjournals.com/portland/inno/)
      - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
      - Silicon Florist (https://siliconflorist.com/)
      - Startup Digest Portland (http://eepurl.com/JZdUn)
@@ -40,45 +41,7 @@ Coworking spaces
      - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
 
-Startup accelerators
-----------
-- Amplify (Defunct)
-- Cambia Health Solutions (http://www.cambiahealth.com/companies/)
-- e1ectr0n (http://www.e1ectr0n.com/)
-- Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
-- The Initiative (https://www.intheinitiative.com/) (Defunct)
-- Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Incubator is defunct, company still here)
-- LEAP Venture Studio (https://www.leapventurestudio.com/) (Moved)
-- Nike Valiant Labs
-- Nike+ Accelerator (Defunct)
-- Oregon Bioscience Incubator (https://otradi.org)
-- Oregon Story Board (Defunct)
-- Oregon Startup Center (https://oregonstartupcenter.org/) (formerly known as OTBC (http://otbc.org/))
-- PIE (https://piepdx.com/)
-- Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
-- Portland TenX (Defunct)
-- Startup PDX Challenge (Defunct)
-- Starve Ups (https://www.starveups.com/)
-- TiE Pearl (Defunct)
-- TiE Westside Incubator (Defunct)
-- TiE XL Bootcamp (https://oregon.tie.org/tie-entrepreneur-boot-camp/)
-- TranscendIT Health (Defunct)
-- Upstart Labs (Defunct)
-- WeWork Labs Portland (https://www.wework.com/labs) (Defunct)
-- XXcelerator (https://www.xxceleratefund.com/xxcelerator/) (Defunct)
-
-Local investors
-----------
-- Cascade Seed Fund (https://cascadeseedfund.com/)
-- Elevate Capital (http://elevate.vc/)
-- Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund (http://oregonangelfund.com/)
-- Portland Seed Fund (http://www.portlandseedfund.com/)
-- Rogue Venture Partners (http://roguevp.com/)
-- Seven Peaks Ventures (http://sevenpeaksventures.com/)
-- TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
-- Voyager Capital (http://www.voyagercapital.com/)
-
-Community events
+Events
 ----------
 - Annual
      - OEN Angel Oregon (https://www.oen.org/programs-services/oen-angel-oregon/)
@@ -100,21 +63,64 @@ Community events
      - PDXWIT Monthly Happy Hour (https://www.pdxwit.org/upcoming-events?category=happy+hour)
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
      - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
-     - TiE Pitch Club
+     - TiE Pitch Club (https://oregon.tie.org/programs/pitch-club/)
 
 Organizations
 ----------
-- Built Oregon
-- Community Copack
-- Inclusive Business Resource Network
-- Oregon Entrepreneurs Network (OEN)
-- Oregon Startup Center
-- PDXWIT
-- PIE
-- Technology Association of Oregon (TAO)
-- The Inclusive Entrepreneur Foundation
-- TiE Oregon
-- Xcelerate
+- Built Oregon (https://builtoregon.com/)
+- Community Copack (https://www.communitycopacknw.com/)
+- Inclusive Business Resource Network (https://prosperportland.us/portfolio-items/inclusive-business-resource-network/)
+- NuProject (https://nuproject.org/)
+- Oregon Entrepreneurs Network (OEN) (https://oen.org/)
+- Oregon Startup Center (https://oregonstartupcenter.org/)
+- PDXWIT (https://www.pdxwit.org/)
+- PIE (https://piepdx.com)
+- Technology Association of Oregon (TAO) (https://www.techoregon.org/)
+- The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
+- TiE Oregon (https://oregon.tie.org/)
+- Xcelerate (https://www.xceleratewomen.org/)
+- Zebras Unite (https://zebrasunite.coop/portland)
+
+Startup accelerators
+----------
+- Amplify (Defunct)
+- Bend Outdoor Worx (http://bendoutdoorworx.com/)
+- Cambia Health Solutions (http://www.cambiahealth.com/companies/)
+- e1ectr0n (http://www.e1ectr0n.com/)
+- Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
+- The Initiative (https://www.intheinitiative.com/) (Defunct)
+- Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Incubator is defunct, company still here)
+- LEAP Venture Studio (https://www.leapventurestudio.com/) (Moved)
+- Nike Valiant Labs
+- Nike+ Accelerator (Defunct)
+- Oregon Bioscience Incubator (https://otradi.org)
+- Oregon Enterprise Blockchain Venture Studio (https://www.oebvs.com/)
+- Oregon Story Board (Defunct)
+- Oregon Startup Center (https://oregonstartupcenter.org/) (formerly known as OTBC (http://otbc.org/))
+- PIE (https://piepdx.com/)
+- Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
+- Portland TenX (Defunct)
+- Startup PDX Challenge (Defunct)
+- Starve Ups (https://www.starveups.com/)
+- TiE Pearl (Defunct)
+- TiE Westside Incubator (Defunct)
+- TiE XL Bootcamp (https://oregon.tie.org/tie-entrepreneur-boot-camp/)
+- TranscendIT Health (Defunct)
+- Upstart Labs (Defunct)
+- WeWork Labs Portland (Defunct)
+- XXcelerator (Defunct)
+
+Venture Capital
+----------
+- 1859 (https://1859.vc)
+- Cascade Seed Fund (https://cascadeseedfund.com/)
+- Elevate Capital (http://elevate.vc/)
+- Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund (http://oregonangelfund.com/)
+- Portland Seed Fund (http://www.portlandseedfund.com/)
+- Rogue Venture Partners (http://roguevp.com/)
+- Seven Peaks Ventures (http://sevenpeaksventures.com/)
+- TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
+- Voyager Capital (http://www.voyagercapital.com/)
 
 Portland startups
 ----------
