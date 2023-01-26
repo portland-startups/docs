@@ -25,17 +25,17 @@ Coworking spaces
      - Lake Oswego
      - Pearl
      - Westend
-- Clean Slate (http://www.cleanslatepdx.com/) (Defunct)
+- Clean Slate (Defunct)
 - Collective Agency (https://collectiveagency.co/)
-- Factory @ The Ford (http://www.fordbuildingpdx.com/) (Defunct)
-- Forge (http://www.forgeportland.org/) (Defunct)
+- Factory @ The Ford (Defunct)
+- Forge (Defunct)
 - NedSpace (http://nedspace.com/)
-- NXT Industries (http://nxt.industries/) (Defunct)
+- NXT Industries (Defunct)
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
 - WeWork 
-     - Custom House (https://www.wework.com/locations/portland/custom-house) (Defunct)
-     - Pioneer Place (https://www.wework.com/buildings/pioneer-place--portland--OR) (Defunct)
+     - Custom House (Defunct)
+     - Pioneer Place (Defunct)
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
      - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
@@ -53,39 +53,70 @@ Startup accelerators
 - Nike+ Accelerator (Defunct)
 - Oregon Bioscience Incubator (https://otradi.org)
 - Oregon Story Board (Defunct)
-- OTBC (http://otbc.org/)
+- Oregon Startup Center (https://oregonstartupcenter.org/) (formerly known as OTBC (http://otbc.org/))
 - PIE (https://piepdx.com/)
-- PIE Shop (https://piepdx.com)
-- Portland Seed Fund (http://portlandseedfund.com/)
 - Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
-- Portland TenX (http://tenx.org/)
+- Portland TenX (Defunct)
 - Startup PDX Challenge (Defunct)
 - Starve Ups (https://www.starveups.com/)
 - TiE Pearl (Defunct)
 - TiE Westside Incubator (Defunct)
-- TiE XL Bootcamp Beaverton (https://oregon.tie.org/tie-xl-boot-camp-all-industries-in-beaverton/)
-- TiE XL Bootcamp Cannabis (https://oregon.tie.org/tie-xl-boot-camp-cannabis-industry/)
-- TiE XL Bootcamp Portland (https://oregon.tie.org/tie-entrepreneur-boot-camp/portland/)
+- TiE XL Bootcamp (https://oregon.tie.org/tie-entrepreneur-boot-camp/)
 - TranscendIT Health (Defunct)
 - Upstart Labs (Defunct)
 - WeWork Labs Portland (https://www.wework.com/labs) (Defunct)
 - XXcelerator (https://www.xxceleratefund.com/xxcelerator/) (Defunct)
 
-Active local investors and funding competitions
+Local investors
 ----------
 - Alley Group (http://www.thealleygroupllc.com/)
-- Bend Venture Conference (http://bendvc.edcoinfo.com/)
-- Cascade Angels (http://www.cascadeangels.com/)
+- Cascade Seed Fund (https://cascadeseedfund.com/)
 - Elevate Capital (http://elevate.vc/)
-- Madrona Venture Group (http://www.madrona.com/) 
-- Oregon Angel Fund (http://oregonangelfund.com/)
-- Oregon Entrepreneur Network Angel Oregon (https://www.oen.org/programs-services/angel-oregon/)
+- Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund (http://oregonangelfund.com/)
 - Portland Seed Fund (http://www.portlandseedfund.com/)
 - Rogue Venture Partners (http://roguevp.com/)
 - Seven Peaks Ventures (http://sevenpeaksventures.com/)
 - TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
 - Voyager Capital (http://www.voyagercapital.com/)
 - Willamette Angel Conference (http://willametteconference.com/)
+
+Community events
+----------
+- Annual
+     - OEN Angel Oregon (https://www.oen.org/programs-services/oen-angel-oregon/)
+     - Bend Venture Conference (http://bendvc.edcoinfo.com/)
+     - Built Festival (https://builtoregon.com)
+     - Idea-to-Business Lab (https://form.jotform.com/230174892286160
+     - PitchBlack (https://pitchblackpdx.com)
+     - Pitch Latinx (https://www.latinofounder.com/)
+     - Pitch Oregon (https://oregon.tie.org/pitch-oregon-2023/)
+     - TechfestNW (Defunct)
+     - Westside Pitch (https://oregon.tie.org/westside-pitch-2023/)
+- Monthly (or more regularly)
+     - Accelerate Bio + Digital Health Happy Hour (https://www.meetup.com/accelerate-bio-tech-pdx/)
+     - Blacks in Technology (https://www.meetup.com/pdx-blacks-in-technology-meetup/)
+     - Coffee w/ Co-Founders (https://www.meetup.com/portland-coffee-w-co-founders/)
+     - Hardware Happy Hour (https://www.meetup.com/hardware-happy-hour-3h-portland/)
+     - Mentorship Saturdays (https://www.meetup.com/mentorship-saturdays/)
+     - NewTech PDX (https://www.meetup.com/newtechpdx/)
+     - PDXWIT Monthly Happy Hour (https://www.pdxwit.org/upcoming-events?category=happy+hour)
+     - ProductTank Portland (https://www.meetup.com/producttank_portland/)
+     - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
+     - TiE Pitch Club
+
+Organizations
+----------
+- Built Oregon
+- Community Copack
+- Inclusive Business Resource Network
+- Oregon Entrepreneurs Network (OEN)
+- Oregon Startup Center
+- PDXWIT
+- PIE
+- Technology Association of Oregon (TAO)
+- The Inclusive Entrepreneur Foundation
+- TiE Oregon
+- Xcelerate
 
 Portland startups
 ----------
