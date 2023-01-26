@@ -26,7 +26,7 @@ Coworking spaces
      - Pearl
      - Westend
 - Clean Slate (http://www.cleanslatepdx.com/) (Defunct)
-- Collective Agency (https://collectiveagency.co/) (Defunct)
+- Collective Agency (https://collectiveagency.co/)
 - Factory @ The Ford (http://www.fordbuildingpdx.com/) (Defunct)
 - Forge (http://www.forgeportland.org/) (Defunct)
 - NedSpace (http://nedspace.com/)
