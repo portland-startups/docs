@@ -64,6 +64,7 @@ Events
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
      - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
      - TiE Pitch Club (https://oregon.tie.org/programs/pitch-club/)
+     - VanTechy (https://www.meetup.com/vantechy/)
 
 Organizations
 ----------
