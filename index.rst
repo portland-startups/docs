@@ -69,7 +69,6 @@ Startup accelerators
 
 Local investors
 ----------
-- Alley Group (http://www.thealleygroupllc.com/)
 - Cascade Seed Fund (https://cascadeseedfund.com/)
 - Elevate Capital (http://elevate.vc/)
 - Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund (http://oregonangelfund.com/)
@@ -78,7 +77,6 @@ Local investors
 - Seven Peaks Ventures (http://sevenpeaksventures.com/)
 - TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
 - Voyager Capital (http://www.voyagercapital.com/)
-- Willamette Angel Conference (http://willametteconference.com/)
 
 Community events
 ----------
