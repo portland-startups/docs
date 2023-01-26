@@ -1,11 +1,11 @@
 Portland, Oregon, startup community
 ======================
 
-Portland does an incredibly good job of describing what's happening in the startup scene anecdotally, but an incredibly poor job of quantifying what is actually happening. This will be an effort to better quantify and capture what's happening in the Portland startup scene.
+Portland does an incredibly good job of describing what's happening in the startup community anecdotally, but an incredibly poor job of quantifying what is actually happening. This will be an effort to better quantify and capture what's happening in the Portland in regards to startups.
 
 Quick start guide
 ----------
-If you're interested in a quick tutorial on Portland startup community resources, visit "How to Portland Startup Scene" (http://sflo.me/HowToPDX)
+If you're interested in a quick tutorial on Portland startup community resources, visit https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
 
 Tech community
 ----------
