@@ -34,7 +34,7 @@ Coworking spaces
 - NXT Industries (Defunct)
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
-- WeWork 
+- WeWork
      - Custom House (Defunct)
      - Pioneer Place (Defunct)
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
@@ -64,7 +64,6 @@ Events
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
      - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
      - TiE Pitch Club (https://oregon.tie.org/programs/pitch-club/)
-     - VanTechy (https://www.meetup.com/vantechy/)
 
 Organizations
 ----------
@@ -78,7 +77,6 @@ Organizations
 - PIE (https://piepdx.com)
 - Technology Association of Oregon (TAO) (https://www.techoregon.org/)
 - The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
-- TiE Oregon (https://oregon.tie.org/)
 - Xcelerate (https://www.xceleratewomen.org/)
 - Zebras Unite (https://zebrasunite.coop/portland)
 
@@ -136,12 +134,12 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Alma
 - Alum.ni
 - Amused Now
-- Answerbox 
+- Answerbox
 - Antenna
 - AppFog (Acquired by CenturyLink)
 - AppThwack (Acquired by Amazon)
 - Athletemob
-- Athletepath (Acquired by IMathlete) 
+- Athletepath (Acquired by IMathlete)
 - AudioName
 - Automagically
 - Bac'n (Acquired)
@@ -156,7 +154,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - BlitzMetrics
 - Blueshift
 - Book Supply Co
-- Boots n All  
+- Boots n All
 - Brandlive
 - Brickstr
 - Bright.md
@@ -169,12 +167,12 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - CASH Music
 - CashStar
 - Cedexis
-- Celly 
+- Celly
 - CerCis Consulting
 - ChickTech
 - Chinook Book
 - chirpify
-- Chroma 
+- Chroma
 - Circle Media
 - CiteAds
 - Civil
@@ -202,7 +200,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Cuddle Mattress
 - Customer.io
 - DADO Labs
-- DailyPath 
+- DailyPath
 - Dart
 - Deconstructed
 - Digital Trends
@@ -230,7 +228,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Field Day
 - Find Wellness
 - FishingGear.com
-- FitCause 
+- FitCause
 - FitDeck
 - Fleet
 - Fling
@@ -248,7 +246,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Giftango (acquired by InComm)
 - gigapan
 - Glider (acquired)
-- gliph  
+- gliph
 - globesherpa.com (acquired, now moovel NA)
 - Go 2 Network
 - Golf Clubs
@@ -334,7 +332,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Muut
 - My Street Grocery (Acquired by Whole Foods)
 - My World News
-- New Relic 
+- New Relic
 - Night & Day Studios
 - Nodify
 - Notion
@@ -398,7 +396,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Rising Tide Innovations
 - RNA Networks
 - Roaster Tools
-- Rumblefish 
+- Rumblefish
 - Salemarkd
 - SavorSearch
 - Scoreboard Invoicing
@@ -493,7 +491,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - WedBrilliant
 - WeMakePDX
 - Wikisway
-- WILD 
+- WILD
 - WILDFANG
 - Womply
 - Wordspreadz
