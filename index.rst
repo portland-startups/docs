@@ -31,7 +31,12 @@ Coworking spaces
 - Factory @ The Ford (Defunct)
 - Forge (Defunct)
 - NedSpace (http://nedspace.com/)
+- openHAUS (https://www.openhauspdx.com/)
 - NXT Industries (Defunct)
+- Spaces (https://www.spacesworks.com/portland/)
+     - Central Eastside
+     - Slabtown
+     - St. John's Landing
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
 - WeWork
