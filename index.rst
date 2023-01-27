@@ -68,6 +68,7 @@ Events
      - PDXWIT Monthly Happy Hour (https://www.pdxwit.org/upcoming-events?category=happy+hour)
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
      - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
+     - Startup Your Startup (https://www.meetup.com/startup-your-startup/)
      - TiE Pitch Club (https://oregon.tie.org/programs/pitch-club/)
      - VanTechy (https://www.meetup.com/vantechy/)
 
