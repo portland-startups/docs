@@ -59,6 +59,7 @@ Events
      - TechfestNW (Defunct)
      - Westside Pitch (https://oregon.tie.org/westside-pitch-2023/)
 - Monthly (or more regularly)
+     - #social_beer (Randomly planned by members of the channel in Portland Startups Slack)
      - Accelerate Bio + Digital Health Happy Hour (https://www.meetup.com/accelerate-bio-tech-pdx/)
      - Blacks in Technology (https://www.meetup.com/pdx-blacks-in-technology-meetup/)
      - Coffee w/ Co-Founders (https://www.meetup.com/portland-coffee-w-co-founders/)
