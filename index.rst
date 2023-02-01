@@ -90,7 +90,7 @@ Organizations
 - PDXWIT (https://www.pdxwit.org/)
 - PIE (https://piepdx.com)
 - Technology Association of Oregon (TAO) (https://www.techoregon.org/)
-- The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
+- TiE Oregon/The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
 - Xcelerate (https://www.xceleratewomen.org/)
 - Zebras Unite (https://zebrasunite.coop/portland)
 
