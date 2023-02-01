@@ -18,6 +18,11 @@ Community
      - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
      - Silicon Florist (https://siliconflorist.com/)
      - Startup Digest Portland (http://eepurl.com/JZdUn)
+- Jobs
+     - The Silicon Forest (https://www.thesiliconforest.com/)
+     - Silicon Florist job board (https://jobs.siliconflorist.com/)
+     - Wellfound - Formerly AngelList Talent (https://angel.co/location/portland)
+     - Who's hiring on Hacker News (https://hnhiring.com/locations/portland)
 
 Coworking spaces
 ----------
