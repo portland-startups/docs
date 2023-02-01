@@ -152,6 +152,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Antenna
 - AppFog (Acquired by CenturyLink)
 - AppThwack (Acquired by Amazon)
+- Assistiv Labs
 - Athletemob
 - Athletepath (Acquired by IMathlete)
 - AudioName
