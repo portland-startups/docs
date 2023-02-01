@@ -23,6 +23,7 @@ Community
      - Silicon Florist job board (https://jobs.siliconflorist.com/)
      - Wellfound - Formerly AngelList Talent (https://angel.co/location/portland)
      - Who's hiring on Hacker News (https://hnhiring.com/locations/portland)
+     - Y Combinator "Work at a startup" (https://www.ycombinator.com/jobs)
 
 Coworking spaces
 ----------
