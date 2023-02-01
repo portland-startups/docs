@@ -493,7 +493,7 @@ Acquired
 - Bac'n (Acquired)
 - Bass Masta (Acquired)
 - Cloudability (Acquired by Apptio)
-- Code Scouts (acquired by ChickTech)
+- Code Scouts (Acquired by ChickTech)
 - Creative Market (Acquired by Autodesk)
 - dot dot dash (formerly Stublisher) (Acquired)
 - Elemental (Acquired by Amazon)
