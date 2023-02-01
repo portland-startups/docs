@@ -93,6 +93,7 @@ Organizations
 - PIE (https://piepdx.com)
 - Technology Association of Oregon (TAO) (https://www.techoregon.org/)
 - TiE Oregon/The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
+- VertueLab (https://vertuelab.org/)
 - Xcelerate (https://www.xceleratewomen.org/)
 - Zebras Unite (https://zebrasunite.coop/portland)
 
