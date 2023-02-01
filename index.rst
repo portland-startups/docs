@@ -19,6 +19,7 @@ Community
      - Silicon Florist (https://siliconflorist.com/)
      - Startup Digest Portland (http://eepurl.com/JZdUn)
 - Jobs
+     - PDXWIT (https://jobs.pdxwit.org/)
      - The Silicon Forest (https://www.thesiliconforest.com/)
      - Silicon Florist job board (https://jobs.siliconflorist.com/)
      - Wellfound - Formerly AngelList Talent (https://angel.co/location/portland)
@@ -196,7 +197,6 @@ Active
 - CoachBase
 - cocollage.com
 - Cointhink
-- COLOURlovers (merged with Creative Market)
 - comic-rocket.com
 - Concrete5
 - Conscious Box
@@ -214,6 +214,7 @@ Active
 - Dart
 - Deconstructed
 - Digital Trends
+- Digs
 - Divine Universal Studies
 - DongleKong
 - Dovie (defunct)
@@ -494,6 +495,7 @@ Acquired
 - Bass Masta (Acquired)
 - Cloudability (Acquired by Apptio)
 - Code Scouts (Acquired by ChickTech)
+- COLOURlovers (merged with Creative Market)
 - Creative Market (Acquired by Autodesk)
 - dot dot dash (formerly Stublisher) (Acquired)
 - Elemental (Acquired by Amazon)
