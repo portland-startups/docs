@@ -16,7 +16,7 @@ Community
 - News
      - Portland Business Journal (https://www.bizjournals.com/portland/inno/)
      - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
-     - Silicon Florist (https://siliconflorist.com/)
+     - Silicon Florist (https://siliconflorist.com/ or https://siliconflorist.substack.com/)
      - Startup Digest Portland (http://eepurl.com/JZdUn)
 - Jobs
      - PDXWIT (https://jobs.pdxwit.org/)
