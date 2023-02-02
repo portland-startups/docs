@@ -131,10 +131,12 @@ Venture Capital
 - 1859 (https://1859.vc)
 - Cascade Seed Fund (https://cascadeseedfund.com/)
 - Elevate Capital (http://elevate.vc/)
-- Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund (http://oregonangelfund.com/)
+- Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund)
 - Portland Seed Fund (http://www.portlandseedfund.com/)
 - Rogue Venture Partners (http://roguevp.com/)
+- Rogue Women (https://roguewmn.com/)
 - Seven Peaks Ventures (http://sevenpeaksventures.com/)
+- The BFM Fund™ (https://www.bfm.fund/)
 - TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
 - Voyager Capital (http://www.voyagercapital.com/)
 
@@ -237,6 +239,7 @@ Active
 - EnviJet
 - Epipheo
 - Factor.io
+- Fat Cupcake
 - Favery
 - Field Day
 - Find Wellness
