@@ -146,10 +146,12 @@ Active
 
 - 38 Zeros
 - 4-tell.com
+- A Kids Company About (formerly A Kids Book About)
 - AboutUs
 - Accumulus
 - Adherial
 - Agilyx
+- Airship (formerly Urban Airship)
 - Alma
 - Alum.ni
 - Amused Now
@@ -213,6 +215,7 @@ Active
 - DADO Labs
 - DailyPath
 - Dart
+- Deadstock Coffee
 - Deconstructed
 - Digital Trends
 - Digs
@@ -270,6 +273,7 @@ Active
 - House Happy
 - Hubbub Health
 - Hyperlayer
+- Icon
 - iFlipd
 - Imagars
 - Imaginot
@@ -321,6 +325,7 @@ Active
 - Minetta Brook
 - Mirador Financial
 - Mirror Realms
+- MISE
 - Mitu
 - MobileRQ
 - mobilitus.com
@@ -333,6 +338,7 @@ Active
 - Muut
 - My World News
 - New Relic
+- NextVR
 - Night & Day Studios
 - Nodify
 - Notion
@@ -367,7 +373,6 @@ Active
 - Price Guide
 - Provata Health
 - Pulse Health
-- Puppet
 - Rainbow Technology
 - RainMaker
 - RallyCause
@@ -408,9 +413,11 @@ Active
 - Sightbox
 - Simple Emotion
 - Simplifilm
+- Skaut Coffee
 - Sketch.io
 - Skyward
 - sleepninja games
+- Slumberkins
 - Small World News
 - Smart Mocha
 - Snowledge
@@ -434,7 +441,6 @@ Active
 - Subscription Tools
 - SurveyMonkey
 - SwellPath
-- Switchboard
 - Syndical
 - Tally
 - taplister
@@ -453,12 +459,12 @@ Active
 - Trakt
 - Trapit
 - Treehouse
+- TREW
 - Trisef Book
 - Truyu
 - Tubaloo
 - Uprinta
 - Upstart Labs (defunct)
-- Urban Airship
 - Vadio
 - Velocis
 - VendNext
@@ -475,9 +481,11 @@ Active
 - Wikisway
 - WILDFANG
 - Womply
+- Woolybubs
 - Wordspreadz
 - Workfrom
 - WorldState
+- YearOne (formerly PocketMentor)
 - Yorkshire Interactive
 - yourbrandlivecom
 - Zapproved
@@ -505,6 +513,7 @@ Acquired
 - Glider (Acquired)
 - globesherpa.com (Acquired)
 - HiringThing (Acquired)
+- HUBB (Acquired)
 - Little Bird (Acquired by Sprinklr)
 - Lucky Sort (Acquired by Twitter)
 - Measureful (Acquired by Chirpify)
@@ -517,12 +526,14 @@ Acquired
 - Paydici (Acquired)
 - perka (Acquired)
 - Postano (Acquired by TigerLogic)
+- Puppet (Acquired)
 - RipFog (Acquired by Cloudability)
 - Second Porch (Acquired by Homeaway)
 - ShopIgniter (Acquired)
 - Showyou (Acquired)
 - Simple (Acquired by BBVA)
 - SpaceView (Acquired by Atheer)
+- Switchboard (Merged with Hearken)
 - The Clymb (Acquired)
 - tindie.com (Acquired)
 - Uncorked Studios (formerly Gorlochs) (Acquired by Fresh Consulting)
