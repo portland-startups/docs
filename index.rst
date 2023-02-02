@@ -217,6 +217,7 @@ Active
 - DADO Labs
 - DailyPath
 - Dart
+- Dashdok
 - Deadstock Coffee
 - Deconstructed
 - Digital Trends
@@ -376,6 +377,7 @@ Active
 - Price Guide
 - Provata Health
 - Pulse Health
+- Radious
 - Rainbow Technology
 - RainMaker
 - RallyCause
@@ -490,8 +492,6 @@ Active
 - WorldState
 - YearOne (formerly PocketMentor)
 - Yorkshire Interactive
-- yourbrandlivecom
-- Zapproved
 - Zembula (formerly Scratch-It)
 - Zeppidy
 - Zoofaroo
@@ -544,5 +544,6 @@ Acquired
 - VendScreen (Acquired)
 - Vizify (Acquired by Yahoo!)
 - The WILD (Acquired by Autodesk)
+- Zapproved (Acquired by Exterro)
 
 ..  _home:
