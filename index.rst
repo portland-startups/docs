@@ -13,6 +13,7 @@ Community
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
 - Community chat (https://pdxslack.com)
 - Local Mastodon instance (https://pdx.social/)
+- Pacific Northwest Packaged Food & Beverage Group (https://groups.google.com/g/pnw-packaged-food-bev/about)
 - News
      - Portland Business Journal (https://www.bizjournals.com/portland/inno/)
      - Silicon Florist (https://siliconflorist.com/ or https://siliconflorist.substack.com/)
