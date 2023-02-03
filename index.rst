@@ -156,6 +156,7 @@ Active
 - Adherial
 - Agilyx
 - Airship (formerly Urban Airship)
+- AllGo
 - Alma
 - Alum.ni
 - Amused Now
@@ -197,6 +198,7 @@ Active
 - CiteAds
 - Civil
 - Clibe
+- Clickety (Defunct)
 - Clicky
 - cloudydays
 - Clutch Play Games
@@ -208,7 +210,6 @@ Active
 - Conscious Box
 - Conversa Health
 - Copatient
-- Cozy
 - CPUsage (Defunct)
 - Creativity Gamelab
 - Crowd Supply
@@ -289,7 +290,6 @@ Active
 - ingridsolutions.com
 - Insidr
 - Instrument
-- IOTAS
 - Iovation
 - Iterasi
 - Jama
@@ -322,13 +322,12 @@ Active
 - Lytics
 - Made
 - Mailr.io
-- MammothHR
 - MathLeap
 - Maurerville
 - menuish
 - MineCRM
+- Mineral (formerly MammothHR)
 - Minetta Brook
-- Mirador Financial
 - Mirror Realms
 - MISE
 - Mitu
@@ -342,7 +341,6 @@ Active
 - Mugasha
 - Muut
 - My World News
-- New Relic
 - The Net VR
 - Night & Day Studios
 - Nodify
@@ -374,6 +372,7 @@ Active
 - Poached
 - Portland's Own
 - PressVI
+- Prestavi
 - PrestoBox
 - Price Guide
 - Provata Health
@@ -400,6 +399,7 @@ Active
 - Rising Tide Innovations
 - RNA Networks
 - Roaster Tools
+- Rose City Games
 - Rumblefish
 - Salemarkd
 - SavorSearch
@@ -425,7 +425,6 @@ Active
 - sleepninja games
 - Slumberkins
 - Small World News
-- Smart Mocha
 - Snowledge
 - Snowy Evening
 - SocialBlend
@@ -499,7 +498,7 @@ Active
 - ZOOM+
 - Zooza
 
-Acquired
+Exited
 
 - AppFog (Acquired by CenturyLink)
 - AppThwack (Acquired by Amazon)
@@ -510,6 +509,7 @@ Acquired
 - Cloudability (Acquired by Apptio)
 - Code Scouts (Acquired by ChickTech)
 - COLOURlovers (merged with Creative Market)
+- Cozy (Acquired)
 - Creative Market (Acquired by Autodesk)
 - dot dot dash (formerly Stublisher) (Acquired)
 - Elemental (Acquired by Amazon)
@@ -519,11 +519,14 @@ Acquired
 - globesherpa.com (Acquired)
 - HiringThing (Acquired)
 - HUBB (Acquired)
+- IOTAS (Acquired)
 - Little Bird (Acquired by Sprinklr)
 - Lucky Sort (Acquired by Twitter)
 - Measureful (Acquired by Chirpify)
 - Meridian (Acquired by Aruba, Aruba acquired by HP)
+- Mirador Financial (Acquired)
 - My Street Grocery (Acquired by Whole Foods)
+- New Relic (IPO)
 - onthego platforms (Acquired by Atheer)
 - Orchestrate (Acquired by CenturyLink)
 - Outdoor Project (Acquired)
@@ -537,6 +540,7 @@ Acquired
 - ShopIgniter (Acquired)
 - Showyou (Acquired)
 - Simple (Acquired by BBVA)
+- Smart Mocha (Acquired)
 - SpaceView (Acquired by Atheer)
 - Switchboard (Merged with Hearken)
 - The Clymb (Acquired)
