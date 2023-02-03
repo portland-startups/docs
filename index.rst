@@ -500,6 +500,7 @@ Active
 
 Exited
 
+- Absci (IPO)
 - AppFog (Acquired by CenturyLink)
 - AppThwack (Acquired by Amazon)
 - Athletepath (Acquired by IMathlete)
@@ -546,6 +547,7 @@ Exited
 - The Clymb (Acquired)
 - tindie.com (Acquired)
 - Uncorked Studios (formerly Gorlochs) (Acquired by Fresh Consulting)
+- Vacasa (IPO)
 - Vault (Acquired by Acorns)
 - VendScreen (Acquired)
 - Vizify (Acquired by Yahoo!)
