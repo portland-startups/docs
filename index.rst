@@ -93,6 +93,8 @@ Organizations
 - Oregon Startup Center (https://oregonstartupcenter.org/)
 - PDXWIT (https://www.pdxwit.org/)
 - PIE (https://piepdx.com)
+- Portland IQ (Defunct)
+- Portland Metro Regional Innovation Hub (https://docs.google.com/document/d/1sfpspaEIELRI3arzdKCZmx5-ioXVR_xdEx2AxJmdz6s/edit?usp=sharing)
 - Technology Association of Oregon (TAO) (https://www.techoregon.org/)
 - TiE Oregon/The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
 - VertueLab (https://vertuelab.org/)
