@@ -59,7 +59,8 @@ Events
      - OEN Angel Oregon (https://www.oen.org/programs-services/oen-angel-oregon/)
      - Bend Venture Conference (http://bendvc.edcoinfo.com/)
      - Built Festival (https://builtoregon.com)
-     - Idea-to-Business Lab (https://form.jotform.com/230174892286160
+     - Idea-to-Business Lab (https://form.jotform.com/230174892286160)
+     - OEN Angel Bio & Life Science (https://www.oen.org/aobio23/)
      - PitchBlack (https://pitchblackpdx.com)
      - Pitch Latinx (https://www.latinofounder.com/)
      - Pitch Oregon (https://oregon.tie.org/pitch-oregon-2023/)
@@ -75,6 +76,7 @@ Events
      - Mentorship Saturdays (https://www.meetup.com/mentorship-saturdays/)
      - NewTech PDX (https://www.meetup.com/newtechpdx/)
      - PDXWIT Monthly Happy Hour (https://www.pdxwit.org/upcoming-events?category=happy+hour)
+     - Portland Ruby Brigade (https://www.meetup.com/portland-ruby-brigade/)
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
      - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
      - Startup Your Startup (https://www.meetup.com/startup-your-startup/)
@@ -177,15 +179,14 @@ Active
 - Brandlive
 - Brickstr
 - Bright.md
-- Brightwork
-- Bumped
+- Brightwork (Defunct)
+- Bumped (Defunct)
 - Cake Systems
 - Camp Near Me
 - Cardsmith
 - Cascadia Games
 - CASH Music
 - CashStar
-- Cedexis
 - Celly
 - CerCis Consulting
 - ChickTech
@@ -342,7 +343,7 @@ Active
 - Muut
 - My World News
 - New Relic
-- NextVR
+- The Net VR
 - Night & Day Studios
 - Nodify
 - Notion
@@ -505,6 +506,7 @@ Acquired
 - Athletepath (Acquired by IMathlete)
 - Bac'n (Acquired)
 - Bass Masta (Acquired)
+- Cedexis (Acquired by Citrix)
 - Cloudability (Acquired by Apptio)
 - Code Scouts (Acquired by ChickTech)
 - COLOURlovers (merged with Creative Market)
