@@ -246,6 +246,7 @@ Active
 - entp
 - EnviJet
 - Epipheo
+- Exterro
 - Factor.io
 - Fat Cupcake
 - Favery
@@ -359,6 +360,7 @@ Active
 - OpenSourcery
 - Paasenger
 - Panic
+- Pasito
 - PayRange
 - Peeka
 - Perceivit
@@ -387,11 +389,13 @@ Active
 - RainMaker
 - RallyCause
 - Rap Grid
+- RealWear
 - RecBob
 - Reco
 - ReelDx
 - Reflect
 - Refresh Media
+- Reperio Health
 - Rera Health
 - returnguru
 - Revelation
@@ -432,6 +436,7 @@ Active
 - Slumberkins
 - Small World News
 - Snowledge
+- Snowshoe
 - Snowy Evening
 - SocialBlend
 - Sphaera Solutions
@@ -526,7 +531,7 @@ Exited
 - globesherpa.com (Acquired)
 - HiringThing (Acquired)
 - HUBB (Acquired)
-- IOTAS (Acquired)
+- IOTAS (Acquired by ADT)
 - Little Bird (Acquired by Sprinklr)
 - Lucky Sort (Acquired by Twitter)
 - Measureful (Acquired by Chirpify)
