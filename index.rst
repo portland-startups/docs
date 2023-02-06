@@ -186,8 +186,6 @@ Active
 - Brandlive
 - Brickstr
 - Bright.md
-- Brightwork (Defunct)
-- Bumped (Defunct)
 - Cake Systems
 - Camp Near Me
 - Cardsmith
@@ -204,7 +202,6 @@ Active
 - CiteAds
 - Civil
 - Clibe
-- Clickety (Defunct)
 - Clicky
 - cloudydays
 - Clutch Play Games
@@ -216,7 +213,6 @@ Active
 - Conscious Box
 - Conversa Health
 - Copatient
-- CPUsage (Defunct)
 - Creativity Gamelab
 - Crowd Supply
 - CrowdStreet
@@ -232,7 +228,6 @@ Active
 - Digs
 - Divine Universal Studies
 - DongleKong
-- Dovie (defunct)
 - Droneseed
 - Dronze
 - Dwellingo
@@ -320,6 +315,7 @@ Active
 - Livfly
 - Local Plate
 - Looptworks
+- Lovely
 - LucentPDX
 - lucid energy
 - Lucid Meetings
@@ -329,6 +325,7 @@ Active
 - Lytics
 - Made
 - Mailr.io
+- Margo
 - MathLeap
 - Maurerville
 - menuish
@@ -342,10 +339,8 @@ Active
 - mobilitus.com
 - Mobspot
 - Molecule Synth
-- MoPix (Defunct)
 - Mountain Machine Games
 - Mozilla
-- Mugasha
 - Muut
 - My World News
 - The Net VR
@@ -369,20 +364,19 @@ Active
 - Perfect
 - Permetia Envirotech
 - Physician Relocation Specialists
-- Piggybank (Defunct)
 - Pillsy
 - pivotplanet
 - Planet Argon
 - Platial
 - Player 01
 - Playmunity
-- Plunk (Defunct)
 - Poached
 - Portland's Own
 - PressVI
 - Prestavi
 - PrestoBox
 - Price Guide
+- Printers Row
 - Provata Health
 - Pulse Health
 - Radious
@@ -400,7 +394,6 @@ Active
 - Rera Health
 - returnguru
 - Revelation
-- Revisu (Defunct)
 - Rezzi
 - RFPio
 - Ribbn
@@ -424,7 +417,6 @@ Active
 - serps.com
 - Shopaddict
 - ShopAddikt
-- ShopTender (formerly blkdot)
 - showkicker.com
 - Shurky Jurky
 - Sightbox
@@ -449,14 +441,9 @@ Active
 - Sprintly
 - Sprout At Work
 - Squash Reports
-- Staffing Robot
-- Stand in
-- StatDragon (Defunct)
-- Stayhound (Defunct)
 - Storycode
 - Sublime Learning
 - Subscription Tools
-- SurveyMonkey
 - SwellPath
 - Syndical
 - Tally
@@ -468,7 +455,6 @@ Active
 - The Brigade
 - The R-Group
 - TheAVproject
-- Theme Dragon (Defunct)
 - Thetus
 - Tixie
 - Together Underground
@@ -481,10 +467,9 @@ Active
 - Truyu
 - Tubaloo
 - Uprinta
-- Upstart Labs (defunct)
-- Vadio
 - Velocis
 - VendNext
+- Versionista
 - Vets First Choice
 - Viddiyo
 - VodPod
@@ -555,15 +540,39 @@ Exited
 - Simple (Acquired by BBVA)
 - Smart Mocha (Acquired)
 - SpaceView (Acquired by Atheer)
+- SurveyMonkey (Acauired)
 - Switchboard (Merged with Hearken)
 - The Clymb (Acquired)
 - tindie.com (Acquired)
 - Uncorked Studios (formerly Gorlochs) (Acquired by Fresh Consulting)
 - Vacasa (IPO)
+- Vadio (Acquired)
 - Vault (Acquired by Acorns)
 - VendScreen (Acquired)
 - Vizify (Acquired by Yahoo!)
 - The WILD (Acquired by Autodesk)
 - Zapproved (Acquired by Exterro)
+
+Defunct
+
+- Brightwork (Defunct)
+- Bumped (Defunct)
+- Clickety (Defunct)
+- CPUsage (Defunct)
+- Dovie (defunct)
+- MoPix (Defunct)
+- Mugasha (Defunct)
+- Piggybank (Defunct)
+- Plunk (Defunct)
+- Revisu (Defunct)
+- ShopTender (formerly blkdot) (Defunct)
+- Staffing Robot (Defunct)
+- Stand in (Defunct)
+- StatDragon (Defunct)
+- Stayhound (Defunct)
+- Theme Dragon (Defunct)
+- Upstart Labs (defunct)
+
+
 
 ..  _home:
