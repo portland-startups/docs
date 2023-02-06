@@ -559,7 +559,7 @@ Defunct
 - Bumped (Defunct)
 - Clickety (Defunct)
 - CPUsage (Defunct)
-- Dovie (defunct)
+- Dovie (Defunct)
 - MoPix (Defunct)
 - Mugasha (Defunct)
 - Piggybank (Defunct)
@@ -571,7 +571,7 @@ Defunct
 - StatDragon (Defunct)
 - Stayhound (Defunct)
 - Theme Dragon (Defunct)
-- Upstart Labs (defunct)
+- Upstart Labs (Defunct)
 
 
 
