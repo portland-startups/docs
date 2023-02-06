@@ -177,6 +177,7 @@ Active
 - BetaTrek
 - Bigdaa
 - Bilingualhire
+- Binster
 - bitharvest
 - BlitzMetrics
 - Blueshift
