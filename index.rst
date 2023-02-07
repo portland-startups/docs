@@ -295,6 +295,7 @@ Active
 - Instrument
 - Iovation
 - Iterasi
+- itOS
 - Jama
 - Janrain
 - Jive
@@ -553,6 +554,7 @@ Exited
 - Vizify (Acquired by Yahoo!)
 - The WILD (Acquired by Autodesk)
 - Zapproved (Acquired by Exterro)
+- Zipcan (Acquired)
 
 Defunct
 
