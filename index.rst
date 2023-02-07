@@ -76,6 +76,7 @@ Events
      - Hardware Happy Hour (https://www.meetup.com/hardware-happy-hour-3h-portland/)
      - Mentorship Saturdays (https://www.meetup.com/mentorship-saturdays/)
      - NewTech PDX (https://www.meetup.com/newtechpdx/)
+     - North Bank Founders Open Coffee (https://www.meetup.com/northbankinno/)
      - PDXWIT Monthly Happy Hour (https://www.pdxwit.org/upcoming-events?category=happy+hour)
      - Portland Ruby Brigade (https://www.meetup.com/portland-ruby-brigade/)
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
