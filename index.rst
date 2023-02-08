@@ -98,6 +98,7 @@ Organizations
 - PIE (https://piepdx.com)
 - Portland IQ (Defunct)
 - Portland Metro Regional Innovation Hub (https://docs.google.com/document/d/1sfpspaEIELRI3arzdKCZmx5-ioXVR_xdEx2AxJmdz6s/edit?usp=sharing)
+- PREGAME (https://pregamehq.com/)
 - Technology Association of Oregon (TAO) (https://www.techoregon.org/)
 - TiE Oregon/The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
 - VertueLab (https://vertuelab.org/)
@@ -180,6 +181,7 @@ Active
 - Bilingualhire
 - Binster
 - bitharvest
+- Black Earth United
 - BlitzMetrics
 - Blueshift
 - Book Supply Co
@@ -187,8 +189,10 @@ Active
 - Brandlive
 - Brickstr
 - Bright.md
+- Business for a Better Portland (formerly PICOC)
 - Cake Systems
 - Camp Near Me
+- CardCraft
 - Cardsmith
 - Cascadia Games
 - CASH Music
@@ -214,6 +218,7 @@ Active
 - Conscious Box
 - Conversa Health
 - Copatient
+- Creative Homies
 - Creativity Gamelab
 - Crowd Supply
 - CrowdStreet
@@ -257,6 +262,7 @@ Active
 - FOMO Sonar
 - Forkfly
 - Foxing
+- Fridie Outdoors
 - FUNDA
 - FunnelBox
 - FXserve
@@ -276,6 +282,7 @@ Active
 - Gymbo
 - Hallspot
 - HealthSaaS
+- Heart & Hustle Productions
 - Here File, File
 - HighFive
 - Hintme
@@ -479,6 +486,7 @@ Active
 - VRN Jobs
 - WalkerTracker
 - WbSrch
+- We Out Here Magazine
 - Webtrends
 - WedBrilliant
 - WeMakePDX
