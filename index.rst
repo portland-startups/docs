@@ -89,6 +89,7 @@ Events
 Organizations
 ----------
 - Built Oregon (https://builtoregon.com/)
+- Business for a Better Portland (https://bbpdx.org/)
 - Community Copack (https://www.communitycopacknw.com/)
 - Inclusive Business Resource Network (https://prosperportland.us/portfolio-items/inclusive-business-resource-network/)
 - NuProject (https://nuproject.org/)
@@ -189,7 +190,6 @@ Active
 - Brandlive
 - Brickstr
 - Bright.md
-- Business for a Better Portland (formerly PICOC)
 - Cake Systems
 - Camp Near Me
 - CardCraft
