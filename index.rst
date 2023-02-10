@@ -146,6 +146,7 @@ Venture Capital
 - Rogue Venture Partners (http://roguevp.com/)
 - Rogue Women (https://roguewmn.com/)
 - Seven Peaks Ventures (http://sevenpeaksventures.com/)
+- Stargazer Ventures (https://www.stargazervc.com/)
 - The BFM Fund™ (https://www.bfm.fund/)
 - TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
 - Voyager Capital (http://www.voyagercapital.com/)
