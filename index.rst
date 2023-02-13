@@ -29,15 +29,16 @@ Community
 
 Coworking spaces
 ----------
+
+Active
+
 - CENTRL Office (http://centrloffice.com/)
      - Eastside
      - Lake Oswego
      - Pearl
      - Westend
-- Clean Slate (Defunct)
 - Collective Agency (https://collectiveagency.co/)
-- Factory @ The Ford (Defunct)
-- Forge (Defunct)
+- Kiln (https://kiln.com/communities/portland/)
 - NedSpace (http://nedspace.com/)
 - openHAUS (https://www.openhauspdx.com/)
 - NXT Industries (Defunct)
@@ -48,11 +49,18 @@ Coworking spaces
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
 - WeWork
-     - Custom House (Defunct)
-     - Pioneer Place (Defunct)
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
      - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
+
+Defunct
+
+- Clean Slate (Defunct)
+- Factory @ The Ford (Defunct)
+- Forge (Defunct)
+- Remotely (Defunct)
+- WeWork Custom House (Defunct)
+- WeWork Pioneer Place (Defunct)
 
 Events
 ----------
