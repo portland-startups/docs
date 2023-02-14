@@ -83,6 +83,7 @@ Events
      - Coffee w/ Co-Founders (https://www.meetup.com/portland-coffee-w-co-founders/)
      - Hardware Happy Hour (https://www.meetup.com/hardware-happy-hour-3h-portland/)
      - Mentorship Saturdays (https://www.meetup.com/mentorship-saturdays/)
+     - New to Portland Tech Meetup (https://www.meetup.com/portland-new-in-town-entrepreneurs-group)
      - NewTech PDX (https://www.meetup.com/newtechpdx/)
      - North Bank Founders Open Coffee (https://www.meetup.com/northbankinno/)
      - PDXWIT Monthly Happy Hour (https://www.pdxwit.org/upcoming-events?category=happy+hour)
