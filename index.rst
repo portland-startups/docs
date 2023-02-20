@@ -106,7 +106,6 @@ Organizations
 - Oregon Startup Center (https://oregonstartupcenter.org/)
 - PDXWIT (https://www.pdxwit.org/)
 - PIE (https://piepdx.com)
-- Portland IQ (Defunct)
 - Portland Metro Regional Innovation Hub (https://docs.google.com/document/d/1sfpspaEIELRI3arzdKCZmx5-ioXVR_xdEx2AxJmdz6s/edit?usp=sharing)
 - PREGAME (https://pregamehq.com/)
 - Technology Association of Oregon (TAO) (https://www.techoregon.org/)
@@ -117,7 +116,6 @@ Organizations
 
 Startup accelerators
 ----------
-- Amplify (Defunct)
 - Bend Outdoor Worx (http://bendoutdoorworx.com/)
 - Cambia Health Solutions (http://www.cambiahealth.com/companies/)
 - e1ectr0n (http://www.e1ectr0n.com/)
@@ -126,23 +124,14 @@ Startup accelerators
 - Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Incubator is defunct, company still here)
 - LEAP Venture Studio (https://www.leapventurestudio.com/) (Moved)
 - Nike Valiant Labs
-- Nike+ Accelerator (Defunct)
 - Oregon Bioscience Incubator (https://otradi.org)
 - Oregon Enterprise Blockchain Venture Studio (https://www.oebvs.com/)
-- Oregon Story Board (Defunct)
 - Oregon Startup Center (https://oregonstartupcenter.org/) (formerly known as OTBC (http://otbc.org/))
 - PIE (https://piepdx.com/)
 - Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
-- Portland TenX (Defunct)
-- Startup PDX Challenge (Defunct)
 - Starve Ups (https://www.starveups.com/)
-- TiE Pearl (Defunct)
-- TiE Westside Incubator (Defunct)
 - TiE XL Bootcamp (https://oregon.tie.org/tie-entrepreneur-boot-camp/)
-- TranscendIT Health (Defunct)
-- Upstart Labs (Defunct)
-- WeWork Labs Portland (Defunct)
-- XXcelerator (Defunct)
+
 
 Venture Capital
 ----------
