@@ -70,6 +70,7 @@ Events
      - Built Festival (https://builtoregon.com)
      - Idea-to-Business Lab (https://form.jotform.com/230174892286160)
      - OEN Angel Bio & Life Science (https://www.oen.org/aobio23/)
+     - Open Data Day (https://www.smartcitypdx.com/events/2023/3/3/portland-open-data-day-2023-disco-tech)
      - PitchBlack (https://pitchblackpdx.com)
      - Pitch Latinx (https://www.latinofounder.com/)
      - Pitch Oregon (https://oregon.tie.org/pitch-oregon-2023/)
