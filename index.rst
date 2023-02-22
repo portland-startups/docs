@@ -192,6 +192,7 @@ Active
 - Bright.md
 - Cake Systems
 - Camp Near Me
+- CampsEZ
 - CardCraft
 - Cardsmith
 - Cascadia Games
@@ -230,6 +231,7 @@ Active
 - Dashdok
 - Deadstock Coffee
 - Deconstructed
+- Dedworks
 - Digital Trends
 - Digs
 - Divine Universal Studies
@@ -254,6 +256,7 @@ Active
 - Favery
 - Field Day
 - Find Wellness
+- Finnegan the Dragon
 - FishingGear.com
 - FitCause
 - FitDeck
@@ -393,6 +396,7 @@ Active
 - RainMaker
 - RallyCause
 - Rap Grid
+- ReachTools.io
 - RealWear
 - RecBob
 - Reco
@@ -476,6 +480,7 @@ Active
 - Truyu
 - Tubaloo
 - Uprinta
+- Upsight Security
 - Velocis
 - VendNext
 - Versionista
