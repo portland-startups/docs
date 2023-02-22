@@ -506,6 +506,7 @@ Active
 - Yorkshire Interactive
 - Zembula (formerly Scratch-It)
 - Zeppidy
+- Zicarta
 - Zoofaroo
 - ZOOM+
 - Zooza
