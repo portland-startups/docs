@@ -130,6 +130,7 @@ Startup accelerators
 - Oregon Startup Center (https://oregonstartupcenter.org/) (formerly known as OTBC (http://otbc.org/))
 - PIE (https://piepdx.com/)
 - Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
+- Startups for All (https://startupsforall.org/)
 - Starve Ups (https://www.starveups.com/)
 - TiE XL Bootcamp (https://oregon.tie.org/tie-entrepreneur-boot-camp/)
 
