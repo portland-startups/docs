@@ -334,6 +334,7 @@ Active
 - Lucid Meetings
 - LUME
 - Lumen Learning
+- Lumina
 - lumous
 - Lytics
 - Made
