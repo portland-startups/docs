@@ -3,6 +3,8 @@ Portland, Oregon, startup community
 
 Portland does an incredibly good job of describing what's happening in the startup community anecdotally, but an incredibly poor job of quantifying what is actually happening. This will be an effort to better quantify and capture what's happening in the Portland in regards to startups.
 
+CC0. This work is dedicated to the public domain under CC0 (https://creativecommons.org/publicdomain/zero/1.0/) To the extent possible under law, Rick Turoczy has waived all copyright and related or neighboring rights to Portland startup community cheat sheet. This work is published from: United States.
+
 Quick start guide
 ----------
 If you're interested in a quick tutorial on Portland startup community resources, visit https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
