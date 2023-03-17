@@ -9,3 +9,5 @@ Best of all? You can help. CONTRIBUTIONS AND EDITS ARE WELCOME. Please feel free
 
 Please join us in documenting the Portland startup community:
 https://github.com/portland-startups/docs/blob/master/index.rst 
+
+CC0. This work is dedicated to the public domain under CC0 (https://creativecommons.org/publicdomain/zero/1.0/) To the extent possible under law, Rick Turoczy has waived all copyright and related or neighboring rights to Portland startup community cheat sheet. This work is published from: United States.
