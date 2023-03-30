@@ -255,6 +255,7 @@ Active
 - Epipheo
 - Exterro
 - Factor.io
+- FasterBetter
 - Fat Cupcake
 - Favery
 - Field Day
