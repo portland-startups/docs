@@ -83,7 +83,7 @@ Events
      - Accelerate Bio + Digital Health Happy Hour (https://www.meetup.com/accelerate-bio-tech-pdx/)
      - Blacks in Technology (https://www.meetup.com/pdx-blacks-in-technology-meetup/)
      - Climate Curious (https://climatecurious.splashthat.com/)
-     - Coffee w/ Co-Founders (https://www.meetup.com/portland-coffee-w-co-founders/)
+     - founder.coffee (https://founder.coffee/)
      - Hardware Happy Hour (https://www.meetup.com/hardware-happy-hour-3h-portland/)
      - Mentorship Saturdays (https://www.meetup.com/mentorship-saturdays/)
      - New to Portland Tech Meetup (https://www.meetup.com/portland-new-in-town-entrepreneurs-group)
