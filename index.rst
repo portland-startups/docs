@@ -360,7 +360,6 @@ Active
 - Mozilla
 - Muut
 - My World News
-- The Net VR
 - Night & Day Studios
 - Nodify
 - Notion
