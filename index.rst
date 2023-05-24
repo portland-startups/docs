@@ -93,6 +93,7 @@ Events
      - Portland Ruby Brigade (https://www.meetup.com/portland-ruby-brigade/)
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
      - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
+     - Startup ChatGPT (https://www.meetup.com/startupchatgpt/)
      - Startup Your Startup (https://www.meetup.com/startup-your-startup/)
      - Techies & Tacos (https://www.meetup.com/techies-and-tacos/)
      - TiE Pitch Club (https://oregon.tie.org/programs/pitch-club/)
