@@ -17,7 +17,7 @@ Community
 - Local Mastodon instance (https://pdx.social/)
 - Pacific Northwest Packaged Food & Beverage Group (https://groups.google.com/g/pnw-packaged-food-bev/about)
 - News
-     - Portland Business Journal (https://www.bizjournals.com/portland/inno/)
+     - Portland Business Journal's "Portland Inno" (https://www.bizjournals.com/portland/inno/)
      - Silicon Florist (https://siliconflorist.com/ or https://siliconflorist.substack.com/)
      - Silicon Forest from The Oregonian (https://www.oregonlive.com/silicon-forest/)
      - Techstars Startup Digest Portland (https://read.letterhead.email/techstars-portland)
