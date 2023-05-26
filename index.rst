@@ -44,7 +44,6 @@ Active
 - Kiln (https://kiln.com/communities/portland/)
 - NedSpace (http://nedspace.com/)
 - openHAUS (https://www.openhauspdx.com/)
-- NXT Industries (Defunct)
 - Spaces (https://www.spacesworks.com/portland/)
      - Central Eastside
      - Slabtown
@@ -61,6 +60,7 @@ Defunct
 - Clean Slate (Defunct)
 - Factory @ The Ford (Defunct)
 - Forge (Defunct)
+- NXT Industries (Defunct)
 - Remotely (Defunct)
 - WeWork Custom House (Defunct)
 - WeWork Pioneer Place (Defunct)
