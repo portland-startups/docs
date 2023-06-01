@@ -7,7 +7,10 @@ CC0. This work is dedicated to the public domain under CC0 (https://creativecomm
 
 Quick start guide
 ----------
-If you're interested in a quick tutorial on Portland startup community resources, visit https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
+If you're interested in a quick tutorial on Portland startup community resources, visit:
+
+- https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
+- https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
 
 Community
 ----------
