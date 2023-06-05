@@ -301,6 +301,7 @@ Active
 - Hintme
 - House Happy
 - Hubbub Health
+- Hydrolix (https://hydrolix.io/)
 - Hyperlayer
 - Icon
 - iFlipd
