@@ -74,6 +74,7 @@ Events
      - OEN Angel Oregon (https://www.oen.org/programs-services/oen-angel-oregon/)
      - Bend Venture Conference (http://bendvc.edcoinfo.com/)
      - Built Festival (https://builtoregon.com)
+     - FOSSY (Free and Open Source Software Yearly) https://2023.fossy.us/
      - Idea-to-Business Lab (https://form.jotform.com/230174892286160)
      - OEN Angel Bio & Life Science (https://www.oen.org/aobio23/)
      - Open Data Day (https://www.smartcitypdx.com/events/2023/3/3/portland-open-data-day-2023-disco-tech)
