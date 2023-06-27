@@ -262,7 +262,7 @@ Active
 - Epipheo
 - Exterro
 - Factor.io
-- FasterBetter
+- FasterBetter (now known as Sixty AI)
 - Fat Cupcake
 - Favery
 - Field Day
@@ -445,6 +445,7 @@ Active
 - ShopAddikt
 - showkicker.com
 - Shurky Jurky
+- Sixty AI (formerly FasterBetter)
 - Sightbox
 - Simple Emotion
 - Simplifilm
