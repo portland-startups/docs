@@ -1,9 +1,9 @@
 Portland, Oregon, startup community
 ======================
 
-Portland does an incredibly good job of describing what's happening in the startup community anecdotally, but an incredibly poor job of quantifying what is actually happening. This will be an effort to better quantify and capture what's happening in the Portland in regards to startups.
+Portland does an incredibly good job of describing what's happening in the startup community anecdotally, but an incredibly poor job of quantifying what is actually happening. This will be an effort to better quantify and capture what's happening in Portland in regards to startups.
 
-CC0. This work is dedicated to the public domain under CC0 (https://creativecommons.org/publicdomain/zero/1.0/) To the extent possible under law, Rick Turoczy has waived all copyright and related or neighboring rights to Portland startup community cheat sheet. This work is published from: United States.
+CC0. This work is dedicated to the public domain under CC0 (https://creativecommons.org/publicdomain/zero/1.0/) To the extent possible under law, Rick Turoczy has waived all copyright and related or neighboring rights to the Portland startup community cheat sheet. This work is published in: United States.
 
 Quick start guide
 ----------
@@ -184,6 +184,7 @@ Active
 - Athletemob
 - AudioName
 - Automagically
+- Ballroom
 - beeminder
 - Befunky
 - Betabook
@@ -369,6 +370,7 @@ Active
 - Mozilla
 - Muut
 - My World News
+- MyRadar
 - Night & Day Studios
 - Nodify
 - Notion
