@@ -52,6 +52,7 @@ Active
      - Slabtown
      - St. John's Landing
 - Upstart Collective (https://www.upstartcollective.org/)
+- Urban Office (https://www.urbanofficeplace.com/)
 - VIDA (https://vidacoworking.com/)
 - WeWork
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
