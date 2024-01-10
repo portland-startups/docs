@@ -213,7 +213,6 @@ Active
 - Celly
 - CerCis Consulting
 - ChickTech
-- Chinook Book
 - chirpify
 - Chroma
 - Circle Media
@@ -593,6 +592,7 @@ Defunct
 
 - Brightwork (Defunct)
 - Bumped (Defunct)
+- Chinook Book (Defunct)
 - Clickety (Defunct)
 - CPUsage (Defunct)
 - Dovie (Defunct)
