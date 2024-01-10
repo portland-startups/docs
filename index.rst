@@ -52,7 +52,6 @@ Active
      - Slabtown
      - St. John's Landing
 - Upstart Collective (https://www.upstartcollective.org/)
-- Urban Office (https://www.urbanofficeplace.com/)
 - VIDA (https://vidacoworking.com/)
 - WeWork
      - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
@@ -170,7 +169,6 @@ Active
 - 38 Zeros
 - 4-tell.com
 - A Kids Company About (formerly A Kids Book About)
-- AboutUs
 - Accumulus
 - Adherial
 - Agilyx
@@ -213,6 +211,7 @@ Active
 - Celly
 - CerCis Consulting
 - ChickTech
+- Chinook Book
 - chirpify
 - Chroma
 - Circle Media
@@ -300,7 +299,6 @@ Active
 - HealthSaaS
 - Heart & Hustle Productions
 - Here File, File
-- HeyPros (https://heypros.com)
 - HighFive
 - Hintme
 - House Happy
@@ -329,6 +327,7 @@ Active
 - Kannact
 - Keen
 - Kickball
+- Kickplan.com
 - Kimera
 - Koffeebot
 - Kokeena
@@ -350,7 +349,6 @@ Active
 - Lumen Learning
 - Lumina
 - lumous
-- Luna (https://joinluna.com)
 - Lytics
 - Made
 - Mailr.io
@@ -472,6 +470,7 @@ Active
 - Sprintly
 - Sprout At Work
 - Squash Reports
+- StellarTickets.com
 - Storycode
 - Sublime Learning
 - Subscription Tools
@@ -492,9 +491,9 @@ Active
 - Totem
 - Trakt
 - Trapit
+- Treehouse
 - TREW
 - Trisef Book
-- True Finance (https://jointrue.com)
 - Truyu
 - Tubaloo
 - Uprinta
@@ -594,7 +593,6 @@ Defunct
 
 - Brightwork (Defunct)
 - Bumped (Defunct)
-- Chinook Book (Defunct)
 - Clickety (Defunct)
 - CPUsage (Defunct)
 - Dovie (Defunct)
