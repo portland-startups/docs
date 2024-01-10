@@ -109,6 +109,7 @@ Organizations
 - Bricks Need Mortar (https://bricks-need-mortar.com/)
 - Built Oregon (https://builtoregon.com/)
 - Business for a Better Portland (https://bbpdx.org/)
+- ChickTech (https://chicktech.org/)
 - Community Copack (https://www.communitycopacknw.com/)
 - Inclusive Business Resource Network (https://prosperportland.us/portfolio-items/inclusive-business-resource-network/)
 - NuProject (https://nuproject.org/)
@@ -199,7 +200,6 @@ Active
 - Boots n All
 - Brandlive
 - Brickstr
-- Bright.md
 - Cake Systems
 - Camp Near Me
 - CampsEZ
@@ -210,7 +210,6 @@ Active
 - CashStar
 - Celly
 - CerCis Consulting
-- ChickTech
 - Chinook Book
 - chirpify
 - Chroma
@@ -262,7 +261,6 @@ Active
 - Epipheo
 - Exterro
 - Factor.io
-- FasterBetter (now known as Sixty AI)
 - Fat Cupcake
 - Favery
 - Field Day
@@ -275,13 +273,11 @@ Active
 - Fleet
 - Fling
 - FOMO Sonar
-- Forkfly
 - Foxing
 - Fridie Outdoors
 - FUNDA
 - FunnelBox
 - FXserve
-- GadgetTrak
 - Generous
 - GEO'Supp
 - GeoPalz
@@ -316,12 +312,10 @@ Active
 - ingridsolutions.com
 - Insidr
 - Instrument
-- Iovation
 - Iterasi
 - itOS
 - Jama
 - Janrain
-- Jive
 - JourneyGym
 - JumperCut
 - Kannact
@@ -335,7 +329,6 @@ Active
 - Kudough
 - LanguageTwin
 - Launcher.io
-- launchside.com
 - Lighthouse
 - Livestock Framing
 - Livfly
@@ -373,7 +366,6 @@ Active
 - MyRadar
 - Night & Day Studios
 - Nodify
-- Notion
 - Nouvola
 - NurseGrid
 - Object Theory
@@ -416,11 +408,9 @@ Active
 - RecBob
 - Reco
 - ReelDx
-- Reflect
 - Refresh Media
 - Reperio Health
 - Rera Health
-- returnguru
 - Revelation
 - Rezzi
 - RFPio
@@ -436,7 +426,6 @@ Active
 - Salemarkd
 - SavorSearch
 - Scoreboard Invoicing
-- Scratch-it (now known as Zembula)
 - Scribbletone
 - SecuriDOT
 - SEED
@@ -448,12 +437,12 @@ Active
 - showkicker.com
 - Shurky Jurky
 - Sixty AI (formerly FasterBetter)
-- Sightbox
+- Sightbox (Acquired by J&J)
 - Simple Emotion
 - Simplifilm
 - Skaut Coffee
 - Sketch.io
-- Skyward
+- Skyward (Acquired by Verizon)
 - sleepninja games
 - Slumberkins
 - Small World News
@@ -477,7 +466,6 @@ Active
 - SwellPath
 - Syndical
 - Tally
-- taplister
 - Teak (formerly Carrot)
 - teamhively.com
 - Tellagence
@@ -491,7 +479,6 @@ Active
 - Totem
 - Trakt
 - Trapit
-- Treehouse
 - TREW
 - Trisef Book
 - Truyu
@@ -536,6 +523,7 @@ Exited
 - Athletepath (Acquired by IMathlete)
 - Bac'n (Acquired)
 - Bass Masta (Acquired)
+- Bright.md (Acquired by VitalTech/Cigna)
 - Cedexis (Acquired by Citrix)
 - Cloudability (Acquired by Apptio)
 - Code Scouts (Acquired by ChickTech)
@@ -551,6 +539,8 @@ Exited
 - HiringThing (Acquired)
 - HUBB (Acquired)
 - IOTAS (Acquired by ADT)
+- Iovation (Acquired by TransUnion)
+- Jive (Acquired by Aurea Software)
 - Koan (Acquired by Quantive)
 - Little Bird (Acquired by Sprinklr)
 - Lucky Sort (Acquired by Twitter)
@@ -559,6 +549,7 @@ Exited
 - Mirador Financial (Acquired)
 - My Street Grocery (Acquired by Whole Foods)
 - New Relic (IPO)
+- Notion (Acquired by Jama)
 - onthego platforms (Acquired by Atheer)
 - Orchestrate (Acquired by CenturyLink)
 - Outdoor Project (Acquired)
@@ -567,6 +558,7 @@ Exited
 - perka (Acquired)
 - Postano (Acquired by TigerLogic)
 - Puppet (Acquired)
+- Reflect (Acquired by Puppet)
 - RipFog (Acquired by Cloudability)
 - Second Porch (Acquired by Homeaway)
 - ShopIgniter (Acquired)
@@ -577,6 +569,7 @@ Exited
 - Stackery (Acquired by Amazon)
 - SurveyMonkey (Acauired)
 - Switchboard (Merged with Hearken)
+- taplister (Acquired)
 - The Clymb (Acquired)
 - tindie.com (Acquired)
 - Uncorked Studios (formerly Gorlochs) (Acquired by Fresh Consulting)
@@ -596,10 +589,14 @@ Defunct
 - Clickety (Defunct)
 - CPUsage (Defunct)
 - Dovie (Defunct)
+- Forkfly (Defunct)
+- GadgetTrak (Defunct)
+- launchside.com (Defunct)
 - MoPix (Defunct)
 - Mugasha (Defunct)
 - Piggybank (Defunct)
 - Plunk (Defunct)
+- returnguru (Defunct)
 - Revisu (Defunct)
 - ShopTender (formerly blkdot) (Defunct)
 - Staffing Robot (Defunct)
@@ -607,6 +604,7 @@ Defunct
 - StatDragon (Defunct)
 - Stayhound (Defunct)
 - Theme Dragon (Defunct)
+- Treehouse (Defunct)
 - Upstart Labs (Defunct)
 
 
