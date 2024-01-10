@@ -300,6 +300,7 @@ Active
 - HealthSaaS
 - Heart & Hustle Productions
 - Here File, File
+- HeyPros (https://heypros.com)
 - HighFive
 - Hintme
 - House Happy
@@ -349,6 +350,7 @@ Active
 - Lumen Learning
 - Lumina
 - lumous
+- Luna (https://joinluna.com)
 - Lytics
 - Made
 - Mailr.io
@@ -490,9 +492,9 @@ Active
 - Totem
 - Trakt
 - Trapit
-- Treehouse
 - TREW
 - Trisef Book
+- True Finance (https://jointrue.com)
 - Truyu
 - Tubaloo
 - Uprinta
