@@ -239,7 +239,6 @@ Active
 - DailyPath
 - Dart
 - Dashdok
-- Deadstock Coffee
 - Deconstructed
 - Dedworks
 - Digital Trends
