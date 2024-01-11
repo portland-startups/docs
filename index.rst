@@ -54,7 +54,6 @@ Active
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
 - WeWork
-     - Power and Light (https://www.wework.com/buildings/power-and-light-building--portland--OR)
      - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
 
@@ -67,6 +66,7 @@ Defunct
 - Remotely (Defunct)
 - WeWork Custom House (Defunct)
 - WeWork Pioneer Place (Defunct)
+- WeWork Power & Light (Defunct)
 
 Events
 ----------
