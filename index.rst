@@ -53,8 +53,7 @@ Active
      - St. John's Landing
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
-- WeWork
-     - 830 NE Holladay St (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
+- WeWork (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
 - Workfrom Portland (https://workfrom.co/portland)
 
 Defunct
