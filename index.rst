@@ -7,7 +7,7 @@ CC0. This work is dedicated to the public domain under CC0 (https://creativecomm
 
 Quick start guide
 ----------
-To get started, try talking to Rosie (https://sflo.me/rosie), an ever-evolving AI concierge designed to help with questions about the Portland startup community. (For more background on Rosie, visit https://siliconflorist.com/2024/01/16/portland-startup-questions-talk-to-rosie-an-ai-mascot-for-silicon-florist/
+To get started, try talking to Rosie (https://sflo.me/rosie), an ever-evolving AI concierge designed to help with questions about the Portland startup community. For more background on Rosie, visit https://siliconflorist.com/2024/01/16/portland-startup-questions-talk-to-rosie-an-ai-mascot-for-silicon-florist/
 
 If you're interested in a quick tutorial on Portland startup community resources, visit:
 
