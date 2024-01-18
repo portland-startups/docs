@@ -249,6 +249,7 @@ Active
 - Dronze
 - Dwellingo
 - Earth Techling
+- EasyHome
 - Ecozoom
 - Elevation Lab
 - Eleven
