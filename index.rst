@@ -69,8 +69,10 @@ Defunct
 - WeWork Pioneer Place (Defunct)
 - WeWork Power & Light (Defunct)
 
-Events
+Events 
 ----------
+Sourced from Calagator (https://calagator.org), Portland Startups Slack events channel (https://pdxslack.com), Eventbrite, Meetup, and more.
+
 - Annual
      - OEN Angel Oregon (https://www.oen.org/programs-services/oen-angel-oregon/)
      - Bend Venture Conference (http://bendvc.edcoinfo.com/)
@@ -82,13 +84,16 @@ Events
      - PitchBlack (https://pitchblackpdx.com)
      - Pitch Latinx (https://www.latinofounder.com/)
      - Pitch Oregon (https://oregon.tie.org/pitch-oregon-2023/)
+     - Silicon Forest Tech Summit (https://steamcircuit.com/)
      - TechfestNW (Defunct)
      - Westside Pitch (https://oregon.tie.org/westside-pitch-2023/)
 - Monthly (or more regularly)
-     - #social_beer (Randomly planned by members of the channel in Portland Startups Slack)
+     - #social_beer (https://meetup.com/social_beer/)
      - Accelerate Bio + Digital Health Happy Hour (https://www.meetup.com/accelerate-bio-tech-pdx/)
      - Blacks in Technology (https://www.meetup.com/pdx-blacks-in-technology-meetup/)
      - Climate Curious (https://climatecurious.splashthat.com/)
+     - Demolicious (https://meetup.com/demolicious-portland/)
+     - First Fridays @ Upstart Collective (https://calagator.org/venues/202397111)
      - founder.coffee (https://founder.coffee/)
      - Hardware Happy Hour (https://www.meetup.com/hardware-happy-hour-3h-portland/)
      - Mentorship Saturdays (https://www.meetup.com/mentorship-saturdays/)
