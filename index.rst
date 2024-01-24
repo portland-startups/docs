@@ -253,6 +253,7 @@ Active
 - Droneseed
 - Dronze
 - Dwellingo
+- DXM
 - Earth Techling
 - EasyHome
 - Ecozoom
@@ -302,6 +303,7 @@ Active
 - Hallspot
 - HealthSaaS
 - Heart & Hustle Productions
+- Hello Wonder
 - Here File, File
 - HighFive
 - Hintme
@@ -384,6 +386,7 @@ Active
 - Paasenger
 - Panic
 - Pasito
+- Paxton AI
 - PayRange
 - Peeka
 - Perceivit
@@ -414,6 +417,7 @@ Active
 - ReachTools.io
 - RealWear
 - RecBob
+- Reclaim AI
 - Reco
 - ReelDx
 - Refresh Media
