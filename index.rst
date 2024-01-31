@@ -156,6 +156,7 @@ Venture Capital
 - 1859 (https://1859.vc)
 - Cascade Seed Fund (https://cascadeseedfund.com/)
 - Elevate Capital (http://elevate.vc/)
+- Ideaship (https://ideashipfund.com)
 - Oregon Sports Angels (https://oregonsportsangels.org/)
 - Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund)
 - Portland Seed Fund (http://www.portlandseedfund.com/)
