@@ -47,6 +47,7 @@ Active
 - Kiln (https://kiln.com/communities/portland/)
 - NedSpace (http://nedspace.com/)
 - openHAUS (https://www.openhauspdx.com/)
+- Rockwood Market Hall (https://www.rockwoodmarkethall.com/rockwood-coworking)
 - Spaces (https://www.spacesworks.com/portland/)
      - Central Eastside
      - Slabtown
