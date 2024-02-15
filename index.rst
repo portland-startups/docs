@@ -85,7 +85,7 @@ Sourced from Calagator (https://calagator.org), Portland Startups Slack events c
      - Pitch Oregon (https://oregon.tie.org/pitch-oregon-2023/)
      - Silicon Forest Tech Summit (https://steamcircuit.com/)
      - TechfestNW (Defunct)
-     - Westside Pitch (https://oregon.tie.org/westside-pitch-2023/)
+     - Westside Pitch (https://events.tie.org/Oregon/WestsidePitch)
 - Monthly (or more regularly)
      - #social_beer (https://meetup.com/social_beer/)
      - Accelerate Bio + Digital Health Happy Hour (https://www.meetup.com/accelerate-bio-tech-pdx/)
