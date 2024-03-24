@@ -303,6 +303,7 @@ Active
 - HealthSaaS
 - Heart & Hustle Productions
 - Hello Wonder
+- [HeyPros](https://heypros.com) 
 - Here File, File
 - HighFive
 - Hintme
@@ -351,6 +352,7 @@ Active
 - Lumen Learning
 - Lumina
 - lumous
+- [Luna Insurance](https://joinluna.com)
 - Lytics
 - Made
 - Mailr.io
@@ -492,6 +494,7 @@ Active
 - Trapit
 - TREW
 - Trisef Book
+- [True Finance](https://jointrue.com)
 - Truyu
 - Tubaloo
 - Uprinta
