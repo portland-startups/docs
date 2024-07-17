@@ -147,6 +147,7 @@ Startup accelerators
 - Startups for All (https://startupsforall.org/)
 - Starve Ups (https://www.starveups.com/)
 - TiE XL Bootcamp (https://oregon.tie.org/tie-entrepreneur-boot-camp/)
+- Vanport Studio (https://vanportstudio.com/)
 
 
 Venture Capital
