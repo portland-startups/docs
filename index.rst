@@ -92,6 +92,7 @@ Sourced from Calagator (https://calagator.org), Portland Startups Slack events c
      - Accelerate Bio + Digital Health Happy Hour (https://www.meetup.com/accelerate-bio-tech-pdx/)
      - AI Portland (https://www.aipdx.info/)
      - Blacks in Technology (https://www.meetup.com/pdx-blacks-in-technology-meetup/)
+     - Bootstrap Startup (https://www.meetup.com/bootstrap-startup/)
      - Climate Curious (https://climatecurious.splashthat.com/)
      - Demolicious (https://meetup.com/demolicious-portland/)
      - First Fridays @ Upstart Collective (https://calagator.org/venues/202397111)
