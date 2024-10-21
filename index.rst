@@ -103,6 +103,7 @@ Sourced from Calagator (https://calagator.org), Portland Startups Slack events c
      - NewTech PDX (https://www.meetup.com/newtechpdx/)
      - North Bank Founders Open Coffee (https://www.meetup.com/northbankinno/)
      - OEN PubTalks (https://www.oen.org/programs-services/oen-programs-2/pubtalks/)
+     - Portland Hardware Meetup (https://www.meetup.com/portland-hardware-meetup/)
      - Portland Ruby Brigade (https://www.meetup.com/portland-ruby-brigade/)
      - ProductTank Portland (https://www.meetup.com/producttank_portland/)
      - Rose City Techies (https://www.meetup.com/rose-city-techies/)
