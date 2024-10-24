@@ -156,6 +156,7 @@ Startup accelerators
 Venture Capital
 ----------
 - Cascade Seed Fund (https://cascadeseedfund.com/)
+- Coughdrop Capital (https://www.coughdropcapital.com/)
 - Elevate Capital (http://elevate.vc/)
 - Founders First Fund (TBD) (Background: https://medium.com/@josh_carter/founders-first-fund-lots-of-false-starts-9827339d6d3a)
 - Ideaship (https://ideashipfund.com)
