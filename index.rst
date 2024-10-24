@@ -164,6 +164,7 @@ Venture Capital
 - Oregon Sports Angels (https://oregonsportsangels.org/)
 - Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund)
 - Portland Seed Fund (http://www.portlandseedfund.com/)
+- Prohibited Capital (https://www.prohibitedcapital.com/)
 - Rogue Venture Partners (http://roguevp.com/)
 - Rogue Women (https://roguewmn.com/)
 - Seven Peaks Ventures (http://sevenpeaksventures.com/)
