@@ -141,6 +141,7 @@ Startup accelerators/studios
 - Founders’ Pad (Bend, OR) (http://www.founderspad.com/)
 - The Initiative (https://www.intheinitiative.com/) (Defunct)
 - Jaguar Land Rover Technology Incubator (https://www.jlrtechincubator.com/) (Incubator is defunct, company still here)
+- Latino Founders Accelerator (https://latinofounder.com/)
 - LEAP Venture Studio (https://www.leapventurestudio.com/) (Moved)
 - Nike Valiant Labs
 - Oregon Bioscience Incubator (https://otradi.org)
