@@ -133,7 +133,7 @@ Organizations
 - Xcelerate (https://www.xceleratewomen.org/)
 - Zebras Unite (https://zebrasunite.coop/portland)
 
-Startup accelerators
+Startup accelerators/studios
 ----------
 - Bend Outdoor Worx (http://bendoutdoorworx.com/)
 - Cambia Health Solutions (http://www.cambiahealth.com/companies/)
@@ -152,7 +152,7 @@ Startup accelerators
 - Startups for All (https://startupsforall.org/)
 - Starve Ups (https://www.starveups.com/)
 - TiE XL Bootcamp (https://oregon.tie.org/tie-entrepreneur-boot-camp/)
-- Vanport Studio (https://vanportstudio.com/)
+- Vanport Studio (https://www.vanportstudio.com/)
 
 
 Venture Capital
