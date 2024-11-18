@@ -14,6 +14,15 @@ If you're interested in a quick tutorial on Portland startup community resources
 - https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
 - https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
 
+And if you're on Bluesky looking to add a smattering of Portland and Oregon folks, these Starter Packs may help
+
+- PDX Tech https://go.bsky.app/LYrfH44
+- PIG (Portland Indie Game) Squad https://go.bsky.app/R9kkPYt
+- Portland https://go.bsky.app/Sr4hJBr
+- Portland! https://go.bsky.app/LLjy23m
+- Portland (PDX) https://go.bsky.app/72332w1
+- Oregonians https://go.bsky.app/CE5vE5k
+
 Community
 ----------
 - Aggregated event calendar (http://calagator.org/)
