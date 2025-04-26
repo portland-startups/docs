@@ -7,12 +7,12 @@ CC0. This work is dedicated to the public domain under CC0 (https://creativecomm
 
 Quick start guide
 ----------
-To get started, try talking to Rosie (https://sflo.me/rosie), an ever-evolving AI concierge designed to help with questions about the Portland startup community. For more background on Rosie, visit https://siliconflorist.com/2024/01/16/portland-startup-questions-talk-to-rosie-an-ai-mascot-for-silicon-florist/
-
 If you're interested in a quick tutorial on Portland startup community resources, visit:
-
+- How to Portland startup community 2025 https://www.youtube.com/watch?v=8E5DgHS8Ajs
 - https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
 - https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
+
+Here's a separately maintained spreadsheet of resources for the Portland startup community: https://skylab.portland.or.us/
 
 And if you're on Bluesky looking to add a smattering of Portland and Oregon folks, these Starter Packs may help
 
