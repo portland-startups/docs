@@ -13,7 +13,7 @@ If you're interested in a quick tutorial on Portland startup community resources
 - https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
 - https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
 
-Here's a separately maintained spreadsheet of resources for the Portland startup community (Thanks, @incanus!):   https://skylab.portland.or.us/
+Here's a separately maintained spreadsheet of resources for the Portland startup community (Thanks, (@incanus)[https://github.com/incanus]!):   https://skylab.portland.or.us/
 
 And if you're on Bluesky looking to add a smattering of Portland and Oregon folks, these Starter Packs may help
 
