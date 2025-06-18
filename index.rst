@@ -26,7 +26,8 @@ And if you're on Bluesky looking to add a smattering of Portland and Oregon folk
 
 Community
 ----------
-- Aggregated event calendar (http://calagator.org/)
+- Aggregated startup event calendar (https://lu.ma/PortlandStartupEvents)
+- Aggregated tech event calendar (http://calagator.org/)
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
 - Community chat (https://pdxslack.com)
 - Local Mastodon instance (https://pdx.social/)
