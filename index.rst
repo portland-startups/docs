@@ -32,6 +32,9 @@ Community
 - Community chat (https://pdxslack.com)
 - Local Mastodon instance (https://pdx.social/)
 - Pacific Northwest Packaged Food & Beverage Group (https://groups.google.com/g/pnw-packaged-food-bev/about)
+- People
+     - A growing list of folks working in, on, and around the startup community (https://sflo.me/oregonstartupfolks)
+     - Add yourself to the list (moderated) (https://sflo.me/oregonstartups-add)
 - News
      - Portland Business Journal (https://www.bizjournals.com/portland/)
      - Portland Inno, startup focused news from the PBJ (https://www.bizjournals.com/portland/inno/)
