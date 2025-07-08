@@ -10,8 +10,8 @@ Quick start guide
 If you're interested in a quick tutorial on Portland startup community resources, visit:
 
 - How to Portland startup community 2025 https://www.youtube.com/watch?v=8E5DgHS8Ajs
-- https://siliconflorist.com/2022/01/06/looking-to-engage-or-re-engage-with-the-portland-startup-community-here-are-a-few-tips-and-tricks-pandemic-or-no/
-- https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
+- How to connect with the Portland starutp community https://siliconflorist.com/2025/07/08/how-to-connect-with-the-startup-community/
+- Portland startup ecosystem 101 https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
 
 Here's a separately maintained spreadsheet of resources for the Portland startup community (Thanks, https://github.com/incanus!):   https://skylab.portland.or.us/
 
