@@ -91,7 +91,7 @@ Sourced from Calagator (https://calagator.org), Portland Startups Slack events c
      - OEN Angel Oregon (https://www.oen.org/programs-services/oen-angel-oregon/)
      - Bend Venture Conference (http://bendvc.com/)
      - Built Festival (https://builtoregon.com)
-     - FOSSY (Free and Open Source Software Yearly) https://2023.fossy.us/
+     - FOSSY (Free and Open Source Software Yearly) https://fossy.us/
      - Idea-to-Business Lab (https://form.jotform.com/230174892286160)
      - OEN Angel Bio & Life Science (https://www.oen.org/aobio23/)
      - Open Data Day (https://www.smartcitypdx.com/events/2023/3/3/portland-open-data-day-2023-disco-tech)
@@ -132,9 +132,9 @@ Sourced from Calagator (https://calagator.org), Portland Startups Slack events c
 
 Organizations
 ----------
+- Better Portland (https://wearebetterportland.com/)
 - Bricks Need Mortar (https://bricks-need-mortar.com/)
 - Built Oregon (https://builtoregon.com/)
-- Business for a Better Portland (https://bbpdx.org/)
 - ChickTech (https://chicktech.org/)
 - Community Copack (https://www.communitycopacknw.com/)
 - Inclusive Business Resource Network (https://prosperportland.us/portfolio-items/inclusive-business-resource-network/)
@@ -142,7 +142,7 @@ Organizations
 - Oregon Entrepreneurs Network (OEN) (https://oen.org/)
 - Oregon Startup Center (https://oregonstartupcenter.org/)
 - PIE (https://piepdx.com)
-- Portland Metro Regional Innovation Hub (https://docs.google.com/document/d/1sfpspaEIELRI3arzdKCZmx5-ioXVR_xdEx2AxJmdz6s/edit?usp=sharing)
+- Portland Metro Regional Innovation Hub (https://www.portlandmetrohub.org/)
 - PREGAME (https://pregamehq.com/)
 - Technology Association of Oregon (TAO) (https://www.techoregon.org/)
 - TiE Oregon/The Inclusive Entrepreneur Foundation (https://oregon.tie.org/)
@@ -164,7 +164,7 @@ Startup accelerators/studios
 - Oregon Bioscience Incubator (https://otradi.org)
 - Oregon Enterprise Blockchain Venture Studio (https://www.oebvs.com/)
 - Oregon Startup Center (https://oregonstartupcenter.org/) (formerly known as OTBC (http://otbc.org/))
-- PIE (https://piepdx.com/)
+- PIE (https://piepdx.com/) (On hiatus)
 - Portland State Business Accelerator (http://www.pdx.edu/accelerator/)
 - Startups for All (https://startupsforall.org/)
 - Starve Ups (https://www.starveups.com/)
@@ -177,7 +177,7 @@ Venture Capital
 - Cascade Seed Fund (https://cascadeseedfund.com/)
 - Coughdrop Capital (https://www.coughdropcapital.com/)
 - Elevate Capital (http://elevate.vc/)
-- Founders First Fund (TBD) (Background: https://medium.com/@josh_carter/founders-first-fund-lots-of-false-starts-9827339d6d3a)
+- Founders First Fund (https://www.founderfirst.vc/)
 - Ideaship (https://ideashipfund.com)
 - Oregon Sports Angels (https://oregonsportsangels.org/)
 - Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund)
