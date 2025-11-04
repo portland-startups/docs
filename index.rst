@@ -12,7 +12,7 @@ If you're interested in a quick tutorial on Portland startup community resources
 - How to Portland startup community 2025 https://www.youtube.com/watch?v=8E5DgHS8Ajs
 - How to connect with the Portland starutp community https://siliconflorist.com/2025/07/08/how-to-connect-with-the-startup-community/
 - Portland startup ecosystem 101 https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
-- Portland Metro Region Innovation Hub - A wayfinding resources for any entrepreneur in the region https://www.portlandmetrohub.org/
+- Portland Metro Region Innovation Hub - A wayfinding resource for any entrepreneur in the region https://www.portlandmetrohub.org/
 
 Here's a separately maintained spreadsheet of resources for the Portland startup community (Thanks, https://github.com/incanus!):   https://skylab.portland.or.us/
 
