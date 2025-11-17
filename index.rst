@@ -162,6 +162,7 @@ Startup accelerators/studios
 - Latino Founders Accelerator (https://latinofounder.com/)
 - LEAP Venture Studio (https://www.leapventurestudio.com/) (Moved)
 - Nike Valiant Labs
+- Oregon AI Accelerator (https://oregonaiaccelerator.com/)
 - Oregon Bioscience Incubator (https://otradi.org)
 - Oregon Enterprise Blockchain Venture Studio (https://www.oebvs.com/)
 - Oregon Startup Center (https://oregonstartupcenter.org/) (formerly known as OTBC (http://otbc.org/))
