@@ -99,7 +99,7 @@ Sourced from Calagator (https://calagator.org), Portland Startups Slack events c
      - PitchBlack (https://pitchblackpdx.com)
      - Pitch Latino (https://www.latinofounder.com/)
      - Pitch Oregon (https://oregon.tie.org/pitch-oregon-2023/)
-     - Portland Startup Week (https://lu.ma/pdxstartupweek)
+     - Portland Startup Week (http://www.portlandstartupweek.com/)
      - Silicon Forest Tech Summit (https://steamcircuit.com/)
      - TechfestNW (Defunct)
      - Westside Pitch (https://events.tie.org/Oregon/WestsidePitch)
