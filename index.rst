@@ -67,7 +67,6 @@ Active
 - Spaces (https://www.spacesworks.com/portland/)
      - Central Eastside
      - Slabtown
-     - St. John's Landing
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
 - WeWork (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
