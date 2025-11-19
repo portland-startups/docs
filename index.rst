@@ -36,6 +36,7 @@ Community
 - People
      - A growing list of folks working in, on, and around the startup community (https://sflo.me/oregonstartupfolks)
      - Add yourself to the list (moderated) (https://sflo.me/oregonstartups-add)
+     - Interviews with local startup founders (https://youtube.com/playlist?list=PLr9gWRSfZqd4Z4DbHmR1Fa4XxFsxx-fcK)
 - News
      - Portland Business Journal (https://www.bizjournals.com/portland/)
      - Portland Inno, startup focused news from the PBJ (https://www.bizjournals.com/portland/inno/)
