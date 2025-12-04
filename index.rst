@@ -193,6 +193,7 @@ Venture Capital
 - The BFM Fund™ (https://www.bfm.fund/)
 - TiE Angels (http://oregon.tie.org/tie-angels-oregon/)
 - Voyager Capital (http://www.voyagercapital.com/)
+- Women's Venture Capital Fund (https://www.womensvcfund.com/)
 
 
 
