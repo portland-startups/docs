@@ -54,6 +54,7 @@ Coworking spaces
 
 Active
 
+- Bloom (https://bloomworkspacepdx.com/)
 - CENTRL Office (http://centrloffice.com/)
      - Eastside
      - Lake Oswego
