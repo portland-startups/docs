@@ -9,6 +9,7 @@ Quick start guide
 ----------
 If you're interested in a quick tutorial on Portland startup community resources, visit:
 
+- Easy shortcuts to get you connected https://youtu.be/MzzK6qHu9bo
 - How to Portland startup community 2025 https://www.youtube.com/watch?v=8E5DgHS8Ajs
 - How to connect with the Portland starutp community https://siliconflorist.com/2025/07/08/how-to-connect-with-the-startup-community/
 - Portland startup ecosystem 101 https://www.bizjournals.com/portland/inno/stories/inno-insights/2021/09/13/portland-startup-ecosystem-101.html
