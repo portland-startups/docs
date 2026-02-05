@@ -61,7 +61,6 @@ Active
      - Lake Oswego
      - Pearl
      - Westend
-- Collective Agency (https://collectiveagency.co/)
 - Kiln (https://kiln.com/communities/portland/)
 - NedSpace (http://nedspace.com/)
 - openHAUS (https://www.openhauspdx.com/)
@@ -78,6 +77,7 @@ Active
 Defunct
 
 - Clean Slate (Defunct)
+- Collective Agency (Defunct)
 - Factory @ The Ford (Defunct)
 - Forge (Defunct)
 - NXT Industries (Defunct)
