@@ -181,7 +181,7 @@ Venture Capital
 - Cascade Seed Fund (https://cascadeseedfund.com/)
 - Coughdrop Capital (https://www.coughdropcapital.com/)
 - Elevate Capital (http://elevate.vc/)
-- Founders First Fund (https://www.founderfirst.vc/)
+- Founder First Fund (https://www.founderfirst.vc/)
 - Ideaship (https://ideashipfund.com)
 - Oregon Sports Angels (https://oregonsportsangels.org/)
 - Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund)
