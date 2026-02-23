@@ -97,7 +97,7 @@ Sourced from Calagator (https://calagator.org), Portland Startups Slack events c
      - Idea-to-Business Lab (https://form.jotform.com/230174892286160)
      - OEN Angel Bio & Life Science (https://www.oen.org/aobio23/)
      - Open Data Day (https://www.smartcitypdx.com/events/2023/3/3/portland-open-data-day-2023-disco-tech)
-     - PitchBlack (https://pitchblackpdx.com)
+     - PitchBlack (https://www.pitchblack.org/)
      - Pitch Latino (https://www.latinofounder.com/)
      - Pitch Oregon (https://oregon.tie.org/pitch-oregon-2023/)
      - Portland Startup Week (http://www.portlandstartupweek.com/)
