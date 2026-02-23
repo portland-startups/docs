@@ -72,7 +72,6 @@ Active
 - Upstart Collective (https://www.upstartcollective.org/)
 - VIDA (https://vidacoworking.com/)
 - WeWork (https://www.wework.com/buildings/830-ne-holladay-st--portland--OR)
-- Workfrom Portland (https://workfrom.co/portland)
 
 Defunct
 
