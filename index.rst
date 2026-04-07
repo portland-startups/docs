@@ -89,6 +89,8 @@ Events
 ----------
 Sourced from Calagator (https://calagator.org), Portland Startups Slack events channel (https://pdxslack.com), Eventbrite, Meetup, and more.
 
+- A map of startup pitch competitions in Oregon and Washington (https://github.com/lkaneda/pitchmap-pnw)
+
 - Annual
      - OEN Angel Oregon (https://www.oen.org/programs-services/oen-angel-oregon/)
      - Bend Venture Conference (http://bendvc.com/)
