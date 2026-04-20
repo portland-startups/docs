@@ -30,6 +30,7 @@ Community
 ----------
 - Aggregated startup event calendar (https://lu.ma/PortlandStartupEvents)
 - Aggregated tech event calendar (http://calagator.org/)
+- Portland technology events calendar (https://luma.com/pdx.tech)
 - Asks & Offers (http://pdxstartups.switchboardhq.com/)
 - Community chat (https://pdxslack.com)
 - Local Mastodon instance (https://pdx.social/)
