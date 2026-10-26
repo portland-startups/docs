@@ -186,6 +186,7 @@ Venture Capital
 - Founder First Fund (https://www.founderfirst.vc/)
 - Ideaship (https://ideashipfund.com)
 - Long Way Ventures (fka Cascade Seed Fund) (https://longwayvc.com/)
+- Mesh (https://mesh.vc/)
 - Next Ventures (https://www.nextventures.com/)
 - Oregon Sports Angels (https://oregonsportsangels.org/)
 - Oregon Venture Fund (https://oregonventurefund.com/) (formerly known as Oregon Angel Fund)
